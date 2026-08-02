@@ -1,0 +1,62 @@
+name: daily-forecast
+
+on:
+  schedule:
+    # 19:00 Israel summer time (IDT = UTC+3) → 16:00 UTC
+    - cron: "0 16 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install requests pandas lxml beautifulsoup4 numpy
+
+      - name: Scrape + forecast
+        id: forecast
+        run: |
+          set -euo pipefail
+          python scrape_polls.py
+          python model.py
+          # Validate forecast.json: loads as JSON, ≥8 parties
+          python - <<'PY'
+          import json, sys
+          with open("forecast.json") as f:
+              data = json.load(f)
+          parties = data.get("parties") or []
+          if len(parties) < 8:
+              print(f"FAIL: only {len(parties)} parties (need ≥8)", file=sys.stderr)
+              sys.exit(1)
+          seats = sum(p.get("expected_seats", 0) for p in parties)
+          if not (115 <= seats <= 125):
+              print(f"FAIL: expected_seats sum={seats} outside 115–125", file=sys.stderr)
+              sys.exit(1)
+          print(f"OK: {len(parties)} parties, seats_sum={seats:.1f}")
+          PY
+
+      - name: Commit and push if changed
+        # Only runs if previous step succeeded — on scrape/model/validation
+        # failure the job exits non-zero and nothing is pushed, so Pages
+        # keeps serving the last good forecast.json.
+        run: |
+          git config user.name "election-meter-bot"
+          git config user.email "election-meter-bot@users.noreply.github.com"
+          git add polls.csv forecast.json
+          if git diff --staged --quiet; then
+            echo "No data changes — skipping commit"
+            exit 0
+          fi
+          git commit -m "daily update $(date -u +%Y-%m-%d)"
+          git push

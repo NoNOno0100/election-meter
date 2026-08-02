@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="he" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>מד הבחירות</title>
+<style>
+  :root { --coalition:#3b6fd4; --opposition:#d4763b; --arab:#3bab6f; --other:#888; }
+  body { font-family: system-ui, "Segoe UI", Arial; max-width: 720px;
+         margin: 0 auto; padding: 16px; background:#fafafa; color:#222; }
+  h1 { font-size: 1.4rem; margin-bottom: 2px; }
+  .meta { color:#777; font-size:.85rem; margin-bottom:20px; }
+  .blocs { display:flex; gap:10px; flex-wrap:wrap; margin-bottom:24px; }
+  .bloc { flex:1; min-width:150px; background:#fff; border-radius:10px;
+          padding:12px; box-shadow:0 1px 4px rgba(0,0,0,.08); }
+  .bloc b { font-size:1.5rem; }
+  .p61 { font-size:.85rem; color:#555; }
+  .row { display:flex; align-items:center; gap:8px; margin:6px 0; }
+  .name { width:130px; font-size:.9rem; }
+  .barwrap { flex:1; background:#eee; border-radius:6px; height:22px; position:relative; }
+  .bar { height:100%; border-radius:6px; }
+  .seats { position:absolute; inset-inline-end:6px; top:2px; font-size:.8rem; color:#fff;
+           text-shadow:0 0 3px rgba(0,0,0,.5); }
+  .iv { width:70px; font-size:.75rem; color:#888; }
+  .risk { color:#c0392b; font-size:.75rem; }
+</style>
+</head>
+<body>
+<h1>מד הבחירות — תחזית מנדטים</h1>
+<div class="meta" id="meta"></div>
+<div class="blocs" id="blocs"></div>
+<div id="parties"></div>
+<script>
+const HEB = {"Likud":"הליכוד","Yashar":"ישר!","Together":"ביחד","Dems":"הדמוקרטים",
+  "Yisrael Beiteinu":"ישראל ביתנו","Shas":"ש\"ס","UTJ":"יהדות התורה",
+  "Otzma":"עוצמה יהודית","RZP":"הציונות הדתית","Ra'am":"רע\"ם",
+  "Hadash -Ta'al":"חד\"ש-תע\"ל","Balad":"בל\"ד","Blue & White":"כחול לבן",
+  "Yesh Atid":"יש עתיד","Zionist Home":"הבית הציוני","Bennett 2026":"בנט 2026"};
+const BLOC_HEB = {coalition:"גוש הקואליציה", opposition:"גוש האופוזיציה",
+  arab:"המפלגות הערביות", other:"אחר"};
+
+fetch("forecast.json").then(r=>r.json()).then(f=>{
+  document.getElementById("meta").textContent =
+    `עודכן: ${f.generated.replace("T"," ")} · ${f.n_sims.toLocaleString()} סימולציות · שיטת בדר־עופר כולל הסכמי עודפים`;
+  const blocs = document.getElementById("blocs");
+  for (const [b,d] of Object.entries(f.blocs)) {
+    blocs.insertAdjacentHTML("beforeend",
+      `<div class="bloc" style="border-top:4px solid var(--${b})">
+         <div>${BLOC_HEB[b]||b}</div><b>${d.expected_seats}</b> מנדטים
+         <div class="p61">80%: ${d.interval_80[0]}–${d.interval_80[1]} ·
+           סיכוי ל־61: <b>${Math.round(d.p_61*100)}%</b></div></div>`);
+  }
+  const wrap = document.getElementById("parties");
+  const max = Math.max(...f.parties.map(p=>p.expected_seats));
+  f.parties.sort((a,b)=>b.expected_seats-a.expected_seats).forEach(p=>{
+    const risk = p.p_pass_threshold < 0.97
+      ? `<span class="risk">סיכון חסימה ${Math.round((1-p.p_pass_threshold)*100)}%</span>` : "";
+    wrap.insertAdjacentHTML("beforeend",
+      `<div class="row">
+         <div class="name">${HEB[p.party]||p.party} ${risk}</div>
+         <div class="barwrap">
+           <div class="bar" style="width:${p.expected_seats/max*100}%;background:var(--${p.bloc})"></div>
+           <span class="seats">${p.expected_seats}</span>
+         </div>
+         <div class="iv">${p.interval_80[0]}–${p.interval_80[1]}</div>
+       </div>`);
+  });
+});
+</script>
+</body>
+</html>
