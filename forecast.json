@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-02T07:46:21",
+  "generated": "2026-08-02T07:47:41",
   "n_sims": 20000,
   "parties": [
     {
@@ -144,14 +144,6 @@
       ],
       "p_61": 0.0
     },
-    "opposition": {
-      "expected_seats": 54.5,
-      "interval_80": [
-        48,
-        61
-      ],
-      "p_61": 0.13
-    },
     "coalition": {
       "expected_seats": 55.9,
       "interval_80": [
@@ -159,6 +151,14 @@
         63
       ],
       "p_61": 0.219
+    },
+    "opposition": {
+      "expected_seats": 54.5,
+      "interval_80": [
+        48,
+        61
+      ],
+      "p_61": 0.13
     }
   }
 }
