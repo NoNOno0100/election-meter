@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192" role="img" aria-label="מד הבחירות">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#4f8cff"/>
+      <stop offset="100%" stop-color="#ff8a4c"/>
+    </linearGradient>
+  </defs>
+  <rect width="192" height="192" rx="40" fill="#0b1020"/>
+  <circle cx="96" cy="96" r="70" fill="none" stroke="#1a2744" stroke-width="10"/>
+  <path d="M96 30 A66 66 0 1 1 30 96" fill="none" stroke="url(#g)" stroke-width="14" stroke-linecap="round"/>
+  <circle cx="96" cy="96" r="10" fill="#eef2ff"/>
+  <line x1="96" y1="96" x2="132" y2="62" stroke="#eef2ff" stroke-width="8" stroke-linecap="round"/>
+  <text x="96" y="168" text-anchor="middle" fill="#93a0bf" font-family="Arial, sans-serif" font-size="18" font-weight="700">120</text>
+</svg>

@@ -1,0 +1,28 @@
+{
+  "name": "מד הבחירות — תחזית מנדטים לכנסת",
+  "short_name": "מד הבחירות",
+  "description": "תחזית מנדטים מקצועית, חדשות ממשלה וסיכוי לרוב — מתעדכן אוטומטית",
+  "start_url": "./?utm_source=pwa",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#0b1020",
+  "theme_color": "#0b1020",
+  "lang": "he",
+  "dir": "rtl",
+  "categories": ["news", "politics", "utilities"],
+  "icons": [
+    {
+      "src": "icon-192.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
