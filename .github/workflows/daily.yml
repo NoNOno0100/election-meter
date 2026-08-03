@@ -46,6 +46,11 @@ jobs:
           print(f"OK: {len(parties)} parties, seats_sum={seats:.1f}")
           PY
 
+      - name: Government news RSS (best-effort)
+        # Does not fail the whole job — keeps last good forecast on pages
+        continue-on-error: true
+        run: python scrape_gov_news.py
+
       - name: Commit and push if changed
         # Only runs if previous step succeeded — on scrape/model/validation
         # failure the job exits non-zero and nothing is pushed, so Pages
@@ -53,7 +58,7 @@ jobs:
         run: |
           git config user.name "election-meter-bot"
           git config user.email "election-meter-bot@users.noreply.github.com"
-          git add polls.csv forecast.json
+          git add polls.csv forecast.json gov-news.json gov-news.xml sitemap.xml || true
           if git diff --staged --quiet; then
             echo "No data changes — skipping commit"
             exit 0
