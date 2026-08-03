@@ -1,8 +1,10 @@
 /* Minimal service worker for Chrome Android / PWA install */
-const CACHE = "election-meter-v2";
+const CACHE = "election-meter-v3";
 const PRECACHE = [
   "./",
   "./index.html",
+  "./styles.css",
+  "./vote.js",
   "./manifest.webmanifest",
   "./icon-192.svg",
   "./icon-512.svg",
