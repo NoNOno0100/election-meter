@@ -1,72 +1,72 @@
 {
-  "generated": "2026-08-03T05:56:32",
+  "generated": "2026-08-03T17:58:36",
   "n_sims": 20000,
   "parties": [
     {
       "party": "Likud",
       "bloc": "coalition",
-      "expected_seats": 24.5,
+      "expected_seats": 22.0,
       "interval_80": [
-        21,
-        28
+        19,
+        25
       ],
       "p_pass_threshold": 1.0,
-      "mean_share": 0.1953
+      "mean_share": 0.1778
     },
     {
       "party": "Together",
       "bloc": "opposition",
-      "expected_seats": 14.1,
+      "expected_seats": 13.3,
       "interval_80": [
         11,
-        17
+        16
       ],
       "p_pass_threshold": 1.0,
-      "mean_share": 0.1138
+      "mean_share": 0.1085
     },
     {
       "party": "RZP",
       "bloc": "coalition",
-      "expected_seats": 3.9,
+      "expected_seats": 5.2,
       "interval_80": [
-        0,
-        6
+        4,
+        7
       ],
-      "p_pass_threshold": 0.753,
-      "mean_share": 0.0396
+      "p_pass_threshold": 0.911,
+      "mean_share": 0.0472
     },
     {
       "party": "Otzma",
       "bloc": "coalition",
-      "expected_seats": 7.9,
+      "expected_seats": 8.1,
       "interval_80": [
         6,
         10
       ],
-      "p_pass_threshold": 0.995,
-      "mean_share": 0.065
+      "p_pass_threshold": 0.997,
+      "mean_share": 0.0674
     },
     {
       "party": "Shas",
       "bloc": "coalition",
-      "expected_seats": 8.5,
+      "expected_seats": 8.8,
       "interval_80": [
         7,
         11
       ],
-      "p_pass_threshold": 0.998,
-      "mean_share": 0.0694
+      "p_pass_threshold": 0.999,
+      "mean_share": 0.0727
     },
     {
       "party": "UTJ",
       "bloc": "coalition",
-      "expected_seats": 8.5,
+      "expected_seats": 8.7,
       "interval_80": [
-        6,
+        7,
         11
       ],
-      "p_pass_threshold": 0.998,
-      "mean_share": 0.0691
+      "p_pass_threshold": 0.999,
+      "mean_share": 0.0722
     },
     {
       "party": "Yisrael Beiteinu",
@@ -77,88 +77,88 @@
         11
       ],
       "p_pass_threshold": 0.999,
-      "mean_share": 0.0735
+      "mean_share": 0.0748
     },
     {
       "party": "Ra'am",
       "bloc": "arab",
-      "expected_seats": 4.8,
+      "expected_seats": 5.9,
       "interval_80": [
-        0,
-        7
+        4,
+        8
       ],
-      "p_pass_threshold": 0.856,
-      "mean_share": 0.0453
+      "p_pass_threshold": 0.946,
+      "mean_share": 0.0525
     },
     {
       "party": "Hadash -Ta'al",
       "bloc": "arab",
-      "expected_seats": 4.7,
+      "expected_seats": 5.8,
       "interval_80": [
-        0,
-        7
+        4,
+        8
       ],
-      "p_pass_threshold": 0.851,
-      "mean_share": 0.0448
+      "p_pass_threshold": 0.938,
+      "mean_share": 0.0517
     },
     {
       "party": "Dems",
       "bloc": "opposition",
-      "expected_seats": 9.9,
+      "expected_seats": 9.8,
       "interval_80": [
         8,
         12
       ],
-      "p_pass_threshold": 0.999,
-      "mean_share": 0.0796
+      "p_pass_threshold": 1.0,
+      "mean_share": 0.0801
     },
     {
       "party": "Yashar",
       "bloc": "opposition",
-      "expected_seats": 21.5,
+      "expected_seats": 18.9,
       "interval_80": [
-        18,
-        25
+        16,
+        22
       ],
       "p_pass_threshold": 1.0,
-      "mean_share": 0.171
+      "mean_share": 0.1531
     },
     {
       "party": "Zionist Home",
       "bloc": "coalition",
-      "expected_seats": 2.6,
+      "expected_seats": 4.4,
       "interval_80": [
         0,
-        6
+        7
       ],
-      "p_pass_threshold": 0.544,
-      "mean_share": 0.0335
+      "p_pass_threshold": 0.813,
+      "mean_share": 0.042
     }
   ],
   "blocs": {
     "arab": {
-      "expected_seats": 9.6,
+      "expected_seats": 11.7,
       "interval_80": [
-        4,
-        14
+        8,
+        15
       ],
       "p_61": 0.0
     },
-    "coalition": {
-      "expected_seats": 55.9,
-      "interval_80": [
-        48,
-        63
-      ],
-      "p_61": 0.219
-    },
     "opposition": {
-      "expected_seats": 54.5,
+      "expected_seats": 51.0,
       "interval_80": [
-        48,
-        61
+        45,
+        57
       ],
-      "p_61": 0.13
+      "p_61": 0.033
+    },
+    "coalition": {
+      "expected_seats": 57.3,
+      "interval_80": [
+        50,
+        64
+      ],
+      "p_61": 0.278
     }
   }
 }
