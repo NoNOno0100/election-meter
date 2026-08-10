@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-09T16:43:51",
+  "generated": "2026-08-10T17:00:25",
   "n_sims": 20000,
   "parties": [
     {
@@ -136,14 +136,6 @@
     }
   ],
   "blocs": {
-    "opposition": {
-      "expected_seats": 55.3,
-      "interval_80": [
-        49,
-        62
-      ],
-      "p_61": 0.163
-    },
     "coalition": {
       "expected_seats": 55.1,
       "interval_80": [
@@ -151,6 +143,14 @@
         63
       ],
       "p_61": 0.179
+    },
+    "opposition": {
+      "expected_seats": 55.3,
+      "interval_80": [
+        49,
+        62
+      ],
+      "p_61": 0.163
     },
     "arab": {
       "expected_seats": 9.5,
