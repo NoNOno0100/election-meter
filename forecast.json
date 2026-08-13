@@ -1,28 +1,28 @@
 {
-  "generated": "2026-08-12T17:03:35",
+  "generated": "2026-08-13T17:03:20",
   "n_sims": 20000,
   "parties": [
     {
       "party": "Likud",
       "bloc": "coalition",
-      "expected_seats": 26.3,
+      "expected_seats": 25.7,
       "interval_80": [
         23,
-        30
+        29
       ],
       "p_pass_threshold": 1.0,
-      "mean_share": 0.2078
+      "mean_share": 0.2035
     },
     {
       "party": "Together",
       "bloc": "opposition",
-      "expected_seats": 13.3,
+      "expected_seats": 13.2,
       "interval_80": [
         11,
         16
       ],
       "p_pass_threshold": 1.0,
-      "mean_share": 0.107
+      "mean_share": 0.1063
     },
     {
       "party": "RZP",
@@ -32,52 +32,52 @@
         0,
         6
       ],
-      "p_pass_threshold": 0.719,
-      "mean_share": 0.0384
+      "p_pass_threshold": 0.721,
+      "mean_share": 0.0385
     },
     {
       "party": "Otzma",
       "bloc": "coalition",
-      "expected_seats": 7.5,
+      "expected_seats": 7.6,
       "interval_80": [
         6,
-        9
+        10
       ],
-      "p_pass_threshold": 0.992,
-      "mean_share": 0.0623
+      "p_pass_threshold": 0.993,
+      "mean_share": 0.0627
     },
     {
       "party": "Shas",
       "bloc": "coalition",
-      "expected_seats": 8.6,
+      "expected_seats": 8.3,
       "interval_80": [
-        7,
-        11
+        6,
+        10
       ],
-      "p_pass_threshold": 0.998,
-      "mean_share": 0.0691
+      "p_pass_threshold": 0.997,
+      "mean_share": 0.0674
     },
     {
       "party": "UTJ",
       "bloc": "coalition",
-      "expected_seats": 8.1,
+      "expected_seats": 8.2,
       "interval_80": [
         6,
         10
       ],
       "p_pass_threshold": 0.996,
-      "mean_share": 0.066
+      "mean_share": 0.0667
     },
     {
       "party": "Yisrael Beiteinu",
       "bloc": "opposition",
-      "expected_seats": 9.2,
+      "expected_seats": 9.3,
       "interval_80": [
         7,
-        11
+        12
       ],
       "p_pass_threshold": 0.999,
-      "mean_share": 0.0741
+      "mean_share": 0.0753
     },
     {
       "party": "Ra'am",
@@ -87,78 +87,78 @@
         0,
         7
       ],
-      "p_pass_threshold": 0.835,
-      "mean_share": 0.044
+      "p_pass_threshold": 0.83,
+      "mean_share": 0.0439
     },
     {
       "party": "Hadash -Ta'al",
       "bloc": "arab",
-      "expected_seats": 4.7,
+      "expected_seats": 4.9,
       "interval_80": [
         0,
         7
       ],
-      "p_pass_threshold": 0.844,
-      "mean_share": 0.0444
+      "p_pass_threshold": 0.866,
+      "mean_share": 0.0457
     },
     {
       "party": "Dems",
       "bloc": "opposition",
-      "expected_seats": 10.1,
+      "expected_seats": 10.2,
       "interval_80": [
         8,
-        12
+        13
       ],
       "p_pass_threshold": 1.0,
-      "mean_share": 0.0813
+      "mean_share": 0.0819
     },
     {
       "party": "Yashar",
       "bloc": "opposition",
-      "expected_seats": 22.6,
+      "expected_seats": 22.8,
       "interval_80": [
         19,
         26
       ],
       "p_pass_threshold": 1.0,
-      "mean_share": 0.1789
+      "mean_share": 0.1804
     },
     {
       "party": "Zionist Home",
       "bloc": "coalition",
-      "expected_seats": 1.3,
+      "expected_seats": 1.4,
       "interval_80": [
         0,
         5
       ],
-      "p_pass_threshold": 0.281,
-      "mean_share": 0.0267
+      "p_pass_threshold": 0.314,
+      "mean_share": 0.0276
     }
   ],
   "blocs": {
     "coalition": {
-      "expected_seats": 55.4,
+      "expected_seats": 54.9,
       "interval_80": [
         48,
-        63
+        62
       ],
-      "p_61": 0.183
+      "p_61": 0.165
     },
     "arab": {
-      "expected_seats": 9.3,
+      "expected_seats": 9.5,
       "interval_80": [
         4,
-        13
+        14
       ],
       "p_61": 0.0
     },
     "opposition": {
-      "expected_seats": 55.3,
+      "expected_seats": 55.6,
       "interval_80": [
         49,
         62
       ],
-      "p_61": 0.155
+      "p_61": 0.17
     }
   }
 }
