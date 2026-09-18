@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-17T19:40:23",
+  "generated": "2026-09-18T18:58:28",
   "n_sims": 20000,
   "parties": [
     {
@@ -147,11 +147,11 @@
     }
   ],
   "blocs": {
-    "other": {
-      "expected_seats": 10.2,
+    "arab": {
+      "expected_seats": 8.5,
       "interval_80": [
-        5,
-        14
+        4,
+        13
       ],
       "p_61": 0.0
     },
@@ -171,11 +171,11 @@
       ],
       "p_61": 0.051
     },
-    "arab": {
-      "expected_seats": 8.5,
+    "other": {
+      "expected_seats": 10.2,
       "interval_80": [
-        4,
-        13
+        5,
+        14
       ],
       "p_61": 0.0
     }
