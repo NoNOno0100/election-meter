@@ -5,7 +5,7 @@
 <link>https://NoNOno0100.github.io/election-meter/</link>
 <description>אגרגציית RSS חינמית: כתבות על הממשלה, הכנסת והבחירות — מתעדכן יומית</description>
 <language>he</language>
-<lastBuildDate>Sat, 19 Sep 2026 18:32:32 +0000</lastBuildDate>
+<lastBuildDate>Sun, 20 Sep 2026 18:39:22 +0000</lastBuildDate>
 <atom:link href="https://NoNOno0100.github.io/election-meter/gov-news.xml" rel="self" type="application/rss+xml"/>
 <managingEditor>jelyashar@gmail.com (Joseph Elyashar)</managingEditor>
 <webMaster>jelyashar@gmail.com (Joseph Elyashar)</webMaster>
@@ -16,57 +16,387 @@
 <link>https://NoNOno0100.github.io/election-meter/</link>
 </image>
 <item>
-<title>מאהרן ברק ועד היום: הוויכוח על גבולות הכוח של בית המשפט</title>
-<link>https://news.walla.co.il/item/3868947</link>
-<guid isPermaLink="true">https://news.walla.co.il/item/3868947</guid>
-<pubDate>Sat, 19 Sep 2026 21:11:00 +0000</pubDate>
-<source url="https://news.walla.co.il/item/3868947">וואלה</source>
-<description>המודל המשפטי שעוצב בעשורים האחרונים הגיע לנקודת מבחן; יש להשלים את המהלך החוקתי באמצעות חוק יסוד: החקיקה והקמת בית משפט חוקתי ששופטיו נבחרים על ידי נציגי העם בכנסת ברוב מיוחס</description>
+<title>&quot;השאלה אם ומתי אני מפוצץ להם את המדינה&quot;: טראמפ מאיים על איראן</title>
+<link>https://news.walla.co.il/item/3869089</link>
+<guid isPermaLink="true">https://news.walla.co.il/item/3869089</guid>
+<pubDate>Sun, 20 Sep 2026 16:50:00 +0000</pubDate>
+<source url="https://news.walla.co.il/item/3869089">וואלה</source>
+<description>נשיא ארצות הברית דונלד טראמפ אמר היום (ראשון) כי הוא נמצא בשלב קבלת ההחלטה בנוגע להמשך המהלכים מול איראן, והבהיר כי האפשרות לתקיפה נוספת נמצאת על השולחן. דבריו מגיעים לאחר שטהרן העבירה לארצות הברית באמצעות קטאר את התנאים שהציבה לחידוש המשא ומתן. בריאיון לפוקס התייחס טראמפ לאפשרוי</description>
 <category>וואלה</category>
 <category>ממשלה</category>
 <category>בחירות</category>
 </item>
 <item>
-<title>צה&quot;ל חיסל מפקד חמאס שפשט למדינת ישראל בטבח 7 באוקטובר</title>
-<link>https://news.walla.co.il/item/3868938</link>
-<guid isPermaLink="true">https://news.walla.co.il/item/3868938</guid>
-<pubDate>Sat, 19 Sep 2026 20:17:00 +0000</pubDate>
-<source url="https://news.walla.co.il/item/3868938">וואלה</source>
-<description>צה&quot;ל חיסל בחאן יונס מפקד בזרוע הצבאית של חמאס שהשתתף בטבח 7 באוקטובר ופעל להטמנת מטענים, קידום מתווי טרור ושיקום יכולות הארגון. רק השבוע דיווח דובר צה&quot;ל על חיסולים נוספים</description>
+<title>הקיבוץ, הסידור ויום הדין: כשהשכול הישראלי חיבר בין חילונים לדתיים</title>
+<link>https://news.walla.co.il/item/3868979</link>
+<guid isPermaLink="true">https://news.walla.co.il/item/3868979</guid>
+<pubDate>Sun, 20 Sep 2026 16:15:00 +0000</pubDate>
+<source url="https://news.walla.co.il/item/3868979">וואלה</source>
+<description>הרבה לפני שנוצר הקיטוב הנוכחי, השבר של מלחמת יום הכיפורים יצר גשר תרבותי נדיר: החילונים מצאו מילים לכאב במקורות היהודיים, והדתיים אימצו את הלחן הקיבוצי אל תוך התפילה. מסע היסטורי אל חשבון הנפש האמיתי שלנו</description>
 <category>וואלה</category>
 <category>ממשלה</category>
 <category>בחירות</category>
 </item>
 <item>
-<title>הרצוג מחק את הרישום הפלילי של אלאור אזריה: &quot;הגיעה העת לאפשר לו להמשיך בחייו&quot;</title>
-<link>https://news.walla.co.il/item/3868932</link>
-<guid isPermaLink="true">https://news.walla.co.il/item/3868932</guid>
-<pubDate>Sat, 19 Sep 2026 19:41:00 +0000</pubDate>
-<source url="https://news.walla.co.il/item/3868932">וואלה</source>
-<description>נשיא המדינה יצחק הרצוג חתם הערב (שבת), על קיצור תקופת הרישום הפלילי של אלאור אזריה, לאחר שנענה לבקשתו ולאחר שקיבל את המלצתו של שר הביטחון ישראל כ&quot;ץ. בהודעתו הדגיש כי ההחלטה אינה משנה את ההרשעה ואינה מהווה בחינה מחודשת של ההליך המשפטי שהתנהל בעניינו. על פי גורם צבאי רשמי, הרמטכ&quot;ל </description>
+<title>צפצוף המוות: מאחורי המבצע ששבר את נסראללה | שנתיים למבצע הביפרים</title>
+<link>https://news.walla.co.il/item/3868965</link>
+<guid isPermaLink="true">https://news.walla.co.il/item/3868965</guid>
+<pubDate>Sun, 20 Sep 2026 15:15:00 +0000</pubDate>
+<source url="https://news.walla.co.il/item/3868965">וואלה</source>
+<description>המפעל הסודי שהוקם בחדר הכושר של המוסד • הרגע שבו נסראללה ראה את המוות במו עיניו • מי האיש שפיצח את האתגר הטכנולוגי ה&quot;בלתי אפשרי&quot; • מה עשה השגריר האיראני עם ביפר צמוד • מה חשפה בתו של נסראללה, ומתי הבינו בישראל שדעתו של מנהיג חיזבאללה השתבשה לחלוטין</description>
 <category>וואלה</category>
 <category>ממשלה</category>
 <category>בחירות</category>
 </item>
 <item>
-<title>פעם בשנה אנחנו מפסיקים להאשים את כולם - ומסתכלים על עצמנו</title>
-<link>https://news.walla.co.il/item/3868679</link>
-<guid isPermaLink="true">https://news.walla.co.il/item/3868679</guid>
-<pubDate>Sat, 19 Sep 2026 18:20:00 +0000</pubDate>
-<source url="https://news.walla.co.il/item/3868679">וואלה</source>
-<description>אפשר לצום, אפשר להתעטף בטלית, אפשר לומר &quot;על חטא&quot;, אבל יש דלת אחת שהקב&quot;ה, כביכול, מסר את המפתח שלה לאדם אחר. פגעת בו? לך אליו, פייס אותו ובקש את מחילתו, אין קיצורי דרך</description>
+<title>גם כוחות מיוחדים: תגבור משמעותי של צה&quot;ל ברצועה ביום הכיפורים</title>
+<link>https://www.globes.co.il/news/article.aspx?did=1001556948#utm_source=RSS</link>
+<guid isPermaLink="true">https://www.globes.co.il/news/article.aspx?did=1001556948#utm_source=RSS</guid>
+<pubDate>Sun, 20 Sep 2026 13:45:00 +0000</pubDate>
+<source url="https://www.globes.co.il/news/article.aspx?did=1001556948#utm_source=RSS">גלובס</source>
+<description>צה&quot;ל מעלה בצורה משמעותית את הכוננות בגבול רצועת עזה ומתגבר את הכוחות באוויר ועל הקרקע לקראת יום הכיפורים • ההחלטה התקבלה למרות שאין התרעה קונקרטית • במערכת הביטחון מעריכים כי חמאס נערך למערכה נוספת • מחבל פתח באש מרכב חולף לעבר מבלים במעיין הסמוך לציר תנועה מרכזי בבנימין ונמלט • </description>
+<category>גלובס</category>
+<category>ממשלה</category>
+<category>בחירות</category>
+</item>
+<item>
+<title>הראשון שיוצא להורג? המחבל מהמעיין ושאלת יישום חוק עונש מוות</title>
+<link>https://www.ynet.co.il/news/article/hkmixl6kme</link>
+<guid isPermaLink="true">https://www.ynet.co.il/news/article/hkmixl6kme</guid>
+<pubDate>Sun, 20 Sep 2026 13:20:05 +0000</pubDate>
+<source url="https://www.ynet.co.il/news/article/hkmixl6kme">Ynet</source>
+<description>פעיל חמאס קדרי סמארה נלכד במרפאה ברמאללה, לאחר שרצח ביריות את נתנאל שקרון. בן גביר דרש &quot;הוצאה להורג עכשיו&quot;, אבל למרות שחוק עונש מוות למחבלים אושר סופית - הדרך עוד ארוכה. האם בג&quot;ץ יתערב, מה תהיה עמדת היועמ&quot;שית - ואיך השופטים הצבאיים יוכלו בכל זאת לחמוק מלגזור עונש מוות?</description>
+<category>Ynet</category>
+<category>ממשלה</category>
+<category>בחירות</category>
+</item>
+<item>
+<title>בצה&quot;ל ממליצים: ליישם את מודל עלי טאהר בלב עזה ולפרק את מעוז חמאס</title>
+<link>https://news.walla.co.il/item/3868939</link>
+<guid isPermaLink="true">https://news.walla.co.il/item/3868939</guid>
+<pubDate>Sun, 20 Sep 2026 12:45:00 +0000</pubDate>
+<source url="https://news.walla.co.il/item/3868939">וואלה</source>
+<description>במערכת הביטחון מציעים לאמץ בעזה את המודל שהופעל נגד חיזבאללה ברכס עלי טאהר: תמרון בלב העיר, פגיעה בהנהגת חמאס והשמדת תשתיות הטרור והמערך התת-קרקעי. על רקע התנגדות חמאס להתפרק מנשקו ולא להעביר את השלטון לכוח חלופי.</description>
 <category>וואלה</category>
 <category>ממשלה</category>
 <category>בחירות</category>
 </item>
 <item>
-<title>מאהרן ברק ועד היום: הוויכוח על גבולות הכוח של בית המשפט | פרופ&#x27; משה כהן-אליה</title>
-<link>https://www.maariv.co.il/news/opinions/article-1369023</link>
-<guid isPermaLink="true">https://www.maariv.co.il/news/opinions/article-1369023</guid>
-<pubDate>Sat, 19 Sep 2026 18:06:29 +0000</pubDate>
-<source url="https://www.maariv.co.il/news/opinions/article-1369023">מעריב</source>
-<description>המודל המשפטי שעוצב בעשורים האחרונים הגיע לנקודת מבחן; יש להשלים את המהלך החוקתי באמצעות חוק יסוד: החקיקה והקמת בית משפט חוקתי ששופטיו נבחרים על ידי נציגי העם בכנסת ברוב מיוחס</description>
+<title>גל אנטישמיות בקליפורניה, האבטחה סביב בתי כנסת תוגברה</title>
+<link>https://news.walla.co.il/item/3869003</link>
+<guid isPermaLink="true">https://news.walla.co.il/item/3869003</guid>
+<pubDate>Sun, 20 Sep 2026 12:19:00 +0000</pubDate>
+<source url="https://news.walla.co.il/item/3869003">וואלה</source>
+<description>כתובות נאצה וצלבי קרס רוססו על בית הכנסת טמפל בית תורה, כנסייה ופארק ציבורי בעיר ונטורה. המשטרה חוקרת את שלושת המקרים כפשעי שנאה ומעריכה כי אדם או קבוצה אחת עומדים מאחוריהם. עד כה לא נעצר חשוד</description>
+<category>וואלה</category>
+<category>ממשלה</category>
+<category>בחירות</category>
+</item>
+<item>
+<title>אסון בסלובניה: גיל הלל נהרג במהלך טיול משפחתי במדינה</title>
+<link>https://www.maariv.co.il/news/israel/article-1369213</link>
+<guid isPermaLink="true">https://www.maariv.co.il/news/israel/article-1369213</guid>
+<pubDate>Sun, 20 Sep 2026 11:23:59 +0000</pubDate>
+<source url="https://www.maariv.co.il/news/israel/article-1369213">מעריב</source>
+<description>גיל הלל ז&quot;ל, תושב קיבוץ יזרעאל, נהרג במהלך טיול משפחתי בסלובניה, לאחר שנפל מגובה רב. הוא השאיר אחריו אישה ושלושה ילדים: &quot;הקהילה כואבת את מותו הטראגי של חברנו היקר&quot;</description>
 <category>מעריב</category>
+<category>ממשלה</category>
+<category>בחירות</category>
+</item>
+<item>
+<title>סוכל חשד לפיגוע בארה&quot;ב: צעיר המזדהה עם דאעש תכנן להרעיל מזון בבתי כנסת</title>
+<link>https://news.walla.co.il/item/3869039</link>
+<guid isPermaLink="true">https://news.walla.co.il/item/3869039</guid>
+<pubDate>Sun, 20 Sep 2026 10:15:00 +0000</pubDate>
+<source url="https://news.walla.co.il/item/3869039">וואלה</source>
+<description>ה-FBI עקב אחר הצעיר בן ה-21 ועצר אותו לאחר שהצטייד ברובה חצי-אוטומטי, מחסניות ותחמושת. לפי מסמכי החקירה, הוא הפיץ תעמולת דאעש וחיפש ריצין או ציאניד כדי להחדיר למזון ולמשקאות. הרשויות הבהירו: לא סומן בית כנסת מסוים כמטרה.</description>
+<category>וואלה</category>
+<category>ממשלה</category>
+<category>בחירות</category>
+</item>
+<item>
+<title>בנימין נתניהו נכנס לתוך התלבטות חייו: &quot;נדע בשבועות הקרובים&quot;</title>
+<link>https://www.maariv.co.il/news/politics/article-1369191</link>
+<guid isPermaLink="true">https://www.maariv.co.il/news/politics/article-1369191</guid>
+<pubDate>Sun, 20 Sep 2026 09:59:06 +0000</pubDate>
+<source url="https://www.maariv.co.il/news/politics/article-1369191">מעריב</source>
+<description>הסוקר של &quot;מעריב&quot; ד&quot;ר מנחם לזר, התייחס לנתוני סקר המנדטים האחרון, כמעט חודש לתאריך הבחירות. בין היתר, הציג לזר את הדילמה הגדולה של הסוקרים לקראת היום שבו יצאו אזרחי ישראל אל הקלפיות ברחבי הארץ</description>
+<category>מעריב</category>
+<category>ממשלה</category>
+<category>בחירות</category>
+</item>
+<item>
+<title>&quot;המאבק הכרחי&quot;: העבריין שדרש דמי חסות התנצל בפני בעלי העסק לאחר 10 ימי מחאה</title>
+<link>https://www.ynet.co.il/news/article/sk11rcgpfme</link>
+<guid isPermaLink="true">https://www.ynet.co.il/news/article/sk11rcgpfme</guid>
+<pubDate>Sun, 20 Sep 2026 09:30:52 +0000</pubDate>
+<source url="https://www.ynet.co.il/news/article/sk11rcgpfme">Ynet</source>
+<description>בני משפחת אבו־מוך מבאקה אל גרבייה הפסיקו את עבודתם והתכנסו מדי יום כדי למחות, לאחר שאלמונים ירו לעבר סופרמרקט שבבעלותם, מכיוון סירבו לשלם מאות אלפי שקלים. לבסוף, לדבריהם, העבריינים התחייבו שלא להתקרב אליהם: &quot;זה מוכיח שאפשר להתמודד עם תופעות שליליות כמו פרוטקשן ואלימות&quot;</description>
+<category>Ynet</category>
+<category>ממשלה</category>
+<category>בחירות</category>
+</item>
+<item>
+<title>לקראת סוכות: הטעות הקטנה שמסגירה לפורצים שיצאתם לחופשה</title>
+<link>https://travel.walla.co.il/item/3867871</link>
+<guid isPermaLink="true">https://travel.walla.co.il/item/3867871</guid>
+<pubDate>Sun, 20 Sep 2026 09:21:00 +0000</pubDate>
+<source url="https://travel.walla.co.il/item/3867871">וואלה</source>
+<description>תקופת החגים היא שעתם היפה של הנופשים - אבל גם תקופה שבה בתים רבים ברחבי הארץ נותרים ריקים במשך ימים רצופים. בזמן שאנחנו עסוקים באריזת המזוודות, בבדיקת הדרכונים ובדרך לנתב&quot;ג, מי שמחפש בתים שאיש לא נמצא בהם עשוי לחפש דווקא את הסימנים הקטנים שמסגירים את ההיעדרות. אז מה אפשר לעשות כד</description>
+<category>וואלה</category>
+<category>ממשלה</category>
+<category>בחירות</category>
+</item>
+<item>
+<title>נמאס לכם לתת טיפים? הנה היעדים שבהם אתם ממש לא צריכים</title>
+<link>https://travel.walla.co.il/item/3862621</link>
+<guid isPermaLink="true">https://travel.walla.co.il/item/3862621</guid>
+<pubDate>Sun, 20 Sep 2026 09:00:00 +0000</pubDate>
+<source url="https://travel.walla.co.il/item/3862621">וואלה</source>
+<description>בישראל, אם לא תשאירו טיפ במסעדה או בבית הקפה - תזכו למבט זועם, כך גם בארצות הברית ובמקומות אחרים בעולם. אבל יש יעדים שבהם זה ממש לא כך, ולעתים מתן טיפ אף יגרום להרמת גבה ואפילו לעלבון. אתר התיירות Your Mileage May Vary מציג את היעדים הבולטים שבהם אתם יכולים לקבל שירות במסעדה, במו</description>
+<category>וואלה</category>
+<category>ממשלה</category>
+<category>בחירות</category>
+</item>
+<item>
+<title>&quot;ממש לא אכפת לי שיגידו שאני זקנה מטורללת&quot;</title>
+<link>https://e.walla.co.il/item/3868975</link>
+<guid isPermaLink="true">https://e.walla.co.il/item/3868975</guid>
+<pubDate>Sun, 20 Sep 2026 09:00:00 +0000</pubDate>
+<source url="https://e.walla.co.il/item/3868975">וואלה</source>
+<description>הכל מתחיל בהערה תמימה על שמלה פרחונית שגילה אלמגור-אגמון (&quot;לא לשכוח את האגמון!&quot;, היא מזהירה) לבשה למפגש עם חברים. נתקלתי בתמונה משם והחמאתי לה על השמלה. &quot;יש עליה סיפור&quot;, היא מתלהבת. &quot;הלכתי עם הגר בתי היקרה לשוק של בגדים ומוצרים מיישובי העוטף, ראיתי את השמלה וקניתי אותה בלי למדוד.</description>
+<category>וואלה</category>
+<category>ממשלה</category>
+<category>בחירות</category>
+</item>
+<item>
+<title>פיגוע ירי בערב כיפור: אב לשישה נרצח - המחבל נלכד</title>
+<link>https://www.maariv.co.il/news/military/article-1369175</link>
+<guid isPermaLink="true">https://www.maariv.co.il/news/military/article-1369175</guid>
+<pubDate>Sun, 20 Sep 2026 08:43:47 +0000</pubDate>
+<source url="https://www.maariv.co.il/news/military/article-1369175">מעריב</source>
+<description>נתנאל שקרון, אב לשישה ילדים, נרצח בפיגוע ירי במעיין סמוך לנווה צוף, והמחבל נתפס לאחר מצד של כוחות הביטחון. במקביל, ניסיון פיגוע דריסה בחטיבת מנשה הסתיים בחיסול</description>
+<category>מעריב</category>
+<category>ממשלה</category>
+<category>בחירות</category>
+</item>
+<item>
+<title>&quot;זהו זמן הכרעה: להפוך למעצמה אזורית או לקרוס&quot;</title>
+<link>https://news.walla.co.il/item/3868964</link>
+<guid isPermaLink="true">https://news.walla.co.il/item/3868964</guid>
+<pubDate>Sun, 20 Sep 2026 08:20:00 +0000</pubDate>
+<source url="https://news.walla.co.il/item/3868964">וואלה</source>
+<description>&quot;7 באוקטובר הציף את ההבנה שיש דברים שחייבים לטפל בהם, שאי אפשר לגלגל הלאה&quot;, אומר ד&quot;ר אבנר גולוב, סגן נשיא ארגון MIND Israel. מחקר מקיף של הארגון מציג למה משבר החינוך והלכידות הפנימית דחופים כמו טבעת האש סביבנו, ולמה אף אחד באזור לא מחכה לנו</description>
+<category>וואלה</category>
+<category>ממשלה</category>
+<category>בחירות</category>
+</item>
+<item>
+<title>&quot;איך אפשר להרוס משהו שלא קיים?&quot;: קללת נציגי האירוויזיון הישראלים</title>
+<link>https://e.walla.co.il/item/3868634</link>
+<guid isPermaLink="true">https://e.walla.co.il/item/3868634</guid>
+<pubDate>Sun, 20 Sep 2026 08:03:00 +0000</pubDate>
+<source url="https://e.walla.co.il/item/3868634">וואלה</source>
+<description>לפני מספר שנים שאלתי קולגה בתאגיד השידור הגרמני, אם גם שם האמן צועד לתחרות כשהוא יודע שהיא יכולה להרוס לו את הקריירה. היא הסתכלה עליי בעיניים פעורות ושאלה בפליאה: &quot;איך אפשר להרוס משהו שלא קיים?&quot;. המשפט הזה, שמצליח להיות מצחיק ואכזרי בו זמנית, נשאר איתי מאז. אם מחפשים בישראל מישהו</description>
+<category>וואלה</category>
+<category>ממשלה</category>
+<category>בחירות</category>
+</item>
+<item>
+<title>פרשת ההונאה בטורקיה היא בדיוק מה שארדואן חיכה לו</title>
+<link>https://www.globes.co.il/news/article.aspx?did=1001556950#utm_source=RSS</link>
+<guid isPermaLink="true">https://www.globes.co.il/news/article.aspx?did=1001556950#utm_source=RSS</guid>
+<pubDate>Sun, 20 Sep 2026 07:53:00 +0000</pubDate>
+<source url="https://www.globes.co.il/news/article.aspx?did=1001556950#utm_source=RSS">גלובס</source>
+<description>פרשת ההונאה הבינלאומית בטורקיה מספקת לנשיא הסחת דעת מושלמת מקריסת הבורסה המקומית, מהמבוכה האזורית מול החות&#x27;ים ומגל המעצרים החריג במדינה • אף שישראלים מהווים רק כ-5% מהחשודים בפרשת הקריפטו, המשטר מיהר למתג אותה כ&quot;רשת הונאה ישראלית&quot; וחרץ את דינם של המעורבים מראש • בטווח הקצר צפוי מ</description>
+<category>גלובס</category>
+<category>ממשלה</category>
+<category>בחירות</category>
+</item>
+<item>
+<title>אחרי המפלה מול החות&#x27;ים: סעודיה הקימה ועדת חקירה צבאית</title>
+<link>https://www.maariv.co.il/news/world/article-1369157</link>
+<guid isPermaLink="true">https://www.maariv.co.il/news/world/article-1369157</guid>
+<pubDate>Sun, 20 Sep 2026 07:44:14 +0000</pubDate>
+<source url="https://www.maariv.co.il/news/world/article-1369157">מעריב</source>
+<description>לפי &quot;אל מודון&quot;, ריאד חוקרת כיצד קרסו הכוחות הנתמכים על ידה מול החות&#x27;ים בחוף תימן. בכיר צבאי הושעה, טארק סאלח זומן לשימוע - ובסעודיה בוחנים הקמת כוח חדש</description>
+<category>מעריב</category>
+<category>ממשלה</category>
+<category>בחירות</category>
+</item>
+<item>
+<title>ההתבטאות של קאליבאף חשפה את המשבר הפנימי באיראן - ונראה שזאת רק ההתחלה</title>
+<link>https://www.maariv.co.il/news/world/article-1369144</link>
+<guid isPermaLink="true">https://www.maariv.co.il/news/world/article-1369144</guid>
+<pubDate>Sun, 20 Sep 2026 07:17:15 +0000</pubDate>
+<source url="https://www.maariv.co.il/news/world/article-1369144">מעריב</source>
+<description>יו&quot;ר הפרלמנט באיראן טען כי על משמרות המהפכה להמשיך במשא ומתן, לצד פעולות המלחמה. הוא דאג להעביר ביקורת על שני צידי המפה במדינה</description>
+<category>מעריב</category>
+<category>ממשלה</category>
+<category>בחירות</category>
+</item>
+<item>
+<title>מכיוון בלתי צפוי: סין מתחזקת בקרב הישיר מול ארה&quot;ב ודונלד טראמפ</title>
+<link>https://www.maariv.co.il/news/world/article-1369133</link>
+<guid isPermaLink="true">https://www.maariv.co.il/news/world/article-1369133</guid>
+<pubDate>Sun, 20 Sep 2026 06:50:46 +0000</pubDate>
+<source url="https://www.maariv.co.il/news/world/article-1369133">מעריב</source>
+<description>רבים מהצעירים הסינים מחליטים לפתוח &quot;עסק של אדם אחד&quot;, בעזרת הבינה המלאכותית. הממשל בסין מחבק זאת, כחלק מהמאבק המתמשך מול ארצות הברית</description>
+<category>מעריב</category>
+<category>ממשלה</category>
+<category>בחירות</category>
+</item>
+<item>
+<title>&quot;בדיוק מזה ברחנו ברוסיה&quot;: 3 המנדטים החדשים שיכולים להכריע את הבחירות</title>
+<link>https://www.ynet.co.il/news/elections2026/article/hydf1o9fzg</link>
+<guid isPermaLink="true">https://www.ynet.co.il/news/elections2026/article/hydf1o9fzg</guid>
+<pubDate>Sun, 20 Sep 2026 06:25:05 +0000</pubDate>
+<source url="https://www.ynet.co.il/news/elections2026/article/hydf1o9fzg">Ynet</source>
+<description>יותר מ-102 אלף עולים מעל גיל 18 מרוסיה ואוקראינה הגיעו לארץ מפרוץ המלחמה ב-2022, ויוכלו להשתתף בפעם הראשונה בחגיגת הדמוקרטיה הישראלית עם ערכים ליברליים. טטיאנה שנקלטה בנוף הגליל רוצה שינוי בצפון: &quot;במרכז יש הכול מהכול, בפריפריה לא משקיעים&quot;. סרגיי טוען: &quot;בממשלה הנוכחית התעלמו מאיתנ</description>
+<category>Ynet</category>
+<category>ממשלה</category>
+<category>בחירות</category>
+</item>
+<item>
+<title>מוסקבה מופצצת: מתקפת מל&quot;טים משתקת את הבירה הרוסית</title>
+<link>https://www.maariv.co.il/news/world/article-1369115</link>
+<guid isPermaLink="true">https://www.maariv.co.il/news/world/article-1369115</guid>
+<pubDate>Sun, 20 Sep 2026 06:11:13 +0000</pubDate>
+<source url="https://www.maariv.co.il/news/world/article-1369115">מעריב</source>
+<description>אם ושני ילדיה בני ה-3 נרצחו בתקיפת כטב&quot;ם רוסית באזור קייב. הבחירות לפרלמנט הרוסי נפתחו, בצל התקפות בלתי פוסקות על הבירה מוסקבה</description>
+<category>מעריב</category>
+<category>ממשלה</category>
+<category>בחירות</category>
+</item>
+<item>
+<title>חתימת כ&quot;ץ מתעכבת - קשישים ונכים עדיין ללא מיגון: &quot;חשופים למצבים מסכני חיים&quot;</title>
+<link>https://www.ynet.co.il/news/article/sjvexgtymg</link>
+<guid isPermaLink="true">https://www.ynet.co.il/news/article/sjvexgtymg</guid>
+<pubDate>Sun, 20 Sep 2026 05:56:27 +0000</pubDate>
+<source url="https://www.ynet.co.il/news/article/sjvexgtymg">Ynet</source>
+<description>התקנות להסדרת המענים לאוכלוסייה עם מוגבלות בשעת חירום אושרו בכנסת כבר בחודש יולי, אך ממתינות לחתימת שר הביטחון. ארגוני זכויות לאנשים עם מוגבלות: &quot;הם נותרים ללא יכולת ממשית להגן על עצמם או לקבל מענה לצורכיהם&quot;. מערכת הביטחון: &quot;התקנות אושרו מבלי שסוכם מקור תקציבי&quot;</description>
+<category>Ynet</category>
+<category>ממשלה</category>
+<category>בחירות</category>
+</item>
+<item>
+<title>תחקיר יוצא דופן: תולדות פרשת &quot;קטארגייט&quot; - מזווית שטרם הכרנו</title>
+<link>https://www.maariv.co.il/news/world/article-1369103</link>
+<guid isPermaLink="true">https://www.maariv.co.il/news/world/article-1369103</guid>
+<pubDate>Sun, 20 Sep 2026 05:14:41 +0000</pubDate>
+<source url="https://www.maariv.co.il/news/world/article-1369103">מעריב</source>
+<description>ישראל איינהורן, אלי פלדשטיין והסכנה הפוליטית של נתניהו - תחקיר מקיף ויוצא דופן שפורסם במגזין האמריקני &quot;הניו יורקר&quot; חוזר לפרשת &quot;קטארגייט&quot;</description>
+<category>מעריב</category>
+<category>ממשלה</category>
+<category>בחירות</category>
+</item>
+<item>
+<title>המדינה שרכשה מישראל נשק במיליארדים ולוטשת עיניים לטכנולוגיה נוספת</title>
+<link>https://www.globes.co.il/news/article.aspx?did=1001555457#utm_source=RSS</link>
+<guid isPermaLink="true">https://www.globes.co.il/news/article.aspx?did=1001555457#utm_source=RSS</guid>
+<pubDate>Sun, 20 Sep 2026 05:05:00 +0000</pubDate>
+<source url="https://www.globes.co.il/news/article.aspx?did=1001555457#utm_source=RSS">גלובס</source>
+<description>צוללת אמריקאית בלתי מאוישת נפלה בשלמותה לידי איראן, שכעת תוכל לבצע בה הנדסה הפוכה ולנסות להעתיק את הטכנולוגיה • במקביל, חברת רחפנים ישראלית מסמנת את מזרח אירופה כשוק יעד, ואיחוד האמירויות מספקת לאנגולה מסוקים בלתי מאוישים בעסקה של מיליארד אירו • השבוע בתעשיות הביטחוניות</description>
+<category>גלובס</category>
+<category>ממשלה</category>
+<category>בחירות</category>
+</item>
+<item>
+<title>הצלם האמריקאי שראיין 100 ישראלים: &quot;גיליתי כמה ישראל מורכבת ופרועה - ואני רק רוצה לדעת יותר&quot;</title>
+<link>https://www.globes.co.il/news/article.aspx?did=1001556821#utm_source=RSS</link>
+<guid isPermaLink="true">https://www.globes.co.il/news/article.aspx?did=1001556821#utm_source=RSS</guid>
+<pubDate>Sun, 20 Sep 2026 05:04:00 +0000</pubDate>
+<source url="https://www.globes.co.il/news/article.aspx?did=1001556821#utm_source=RSS">גלובס</source>
+<description>דייוויד שלכטר מצא את עצמו בישראל בעיצומה של מלחמה • מכאן הוזנק פרויקט חלומותיו: ספר המאגד פורטרטים וסיפורים של 100 ישראלים, שמשקפים את הפרופיל הדמוגרפי של המדינה - מניצולת שואה בת 95 ועד עולל ביום מילתו</description>
+<category>גלובס</category>
+<category>ממשלה</category>
+<category>בחירות</category>
+</item>
+<item>
+<title>לא הבנתי עד כמה הייתי מכור לטלפון שלי, עד שנכנסתי לכלא</title>
+<link>https://www.globes.co.il/news/article.aspx?did=1001556827#utm_source=RSS</link>
+<guid isPermaLink="true">https://www.globes.co.il/news/article.aspx?did=1001556827#utm_source=RSS</guid>
+<pubDate>Sun, 20 Sep 2026 05:01:00 +0000</pubDate>
+<source url="https://www.globes.co.il/news/article.aspx?did=1001556827#utm_source=RSS">גלובס</source>
+<description>פוליטיקאי לשעבר מסינסינטי כותב על האירוניה שבפרידה הכפויה מהמכשיר שלא הפסיק לצפצף</description>
+<category>גלובס</category>
+<category>ממשלה</category>
+<category>בחירות</category>
+</item>
+<item>
+<title>טליק גואילי מגיבה על הסערה: &quot;דיברתי מדם ליבי. אף אחד לא אויב שלי&quot;</title>
+<link>https://www.ynet.co.il/news/120andone/article/h18xh8ctfl</link>
+<guid isPermaLink="true">https://www.ynet.co.il/news/120andone/article/h18xh8ctfl</guid>
+<pubDate>Sun, 20 Sep 2026 03:30:20 +0000</pubDate>
+<source url="https://www.ynet.co.il/news/120andone/article/h18xh8ctfl">Ynet</source>
+<description>בריאיון ל&quot;120 ואחת&quot;, הפודקאסט הפוליטי של ynet, מתייחסת אימו של רן גואילי ז&quot;ל והמצטרפת החדשה לליכוד, לזעם שעוררה בקרב משפחות שכולות: &quot;הבעתי דאגה מהכוונה להקים ממשלה עם מי שלא מוכנים לכנות את חוטפי הבן שלי טרוריסטים&quot;. על התגובות הקשות: &quot;לא התכוונתי לפלג. להיפגע זו החלטה&quot;. על השריון</description>
+<category>Ynet</category>
+<category>ממשלה</category>
+<category>בחירות</category>
+</item>
+<item>
+<title>מפגן כוח בטהרן: מאות אלפים הצהירו כי יתגייסו להילחם בארה&quot;ב ובישראל | תיעוד</title>
+<link>https://news.walla.co.il/item/3869000</link>
+<guid isPermaLink="true">https://news.walla.co.il/item/3869000</guid>
+<pubDate>Sun, 20 Sep 2026 01:36:00 +0000</pubDate>
+<source url="https://news.walla.co.il/item/3869000">וואלה</source>
+<description>מאות אלפי איראנים השתתפו ביום שישי בעצרת שארגן המשטר בטהראן, במפגן ההתרסה הגדול מסוגו מאז שארה&quot;ב וישראל תקפו את איראן בפברואר. המשתתפים הצהירו כי הם מוכנים לשאת נשק ולהגן על המדינה, לאחר חודשים של מלחמה והחרפה במצבה הכלכלי של איראן - כך דיווחה סוכנות הידיעות AP. העצרת נערכה במסגר</description>
+<category>וואלה</category>
+<category>ממשלה</category>
+<category>בחירות</category>
+</item>
+<item>
+<title>בישראל הפעילו לחץ, &quot;גורם באמירויות&quot; תדרך על &quot;שיחת האזהרה לנתניהו&quot;: פרטים כאלה לא נדונים בדרג מנהיגים</title>
+<link>https://www.ynet.co.il/news/article/r1yyxdnfgg</link>
+<guid isPermaLink="true">https://www.ynet.co.il/news/article/r1yyxdnfgg</guid>
+<pubDate>Sat, 19 Sep 2026 21:34:43 +0000</pubDate>
+<source url="https://www.ynet.co.il/news/article/r1yyxdnfgg">Ynet</source>
+<description>יותר משבוע אחרי פרסום התחקיר על שיחת האזהרה של נשיא האמירויות בן זאיד לנתניהו לפני מתקפת 7 באוקטובר, ולאחר הפעלת לחצים מצד ירושלים, גורם רשמי באבו דאבי מסר לעיתון מקומי כי &quot;איחוד האמירויות דנה בסוגיות ביטחוניות עם מדינות אחרות באמצעות הגופים הרלוונטיים, ואינה דנה בפרטים מסוג זה ב</description>
+<category>Ynet</category>
+<category>ממשלה</category>
+<category>בחירות</category>
+</item>
+<item>
+<title>רק נתניהו? למה באמת קרסה התמיכה בישראל</title>
+<link>https://www.ynet.co.il/news/article/b1q1p00hfzg</link>
+<guid isPermaLink="true">https://www.ynet.co.il/news/article/b1q1p00hfzg</guid>
+<pubDate>Sat, 19 Sep 2026 21:26:24 +0000</pubDate>
+<source url="https://www.ynet.co.il/news/article/b1q1p00hfzg">Ynet</source>
+<description>למה האופוזיציה לא מסתערת על אזהרת חבר הקונגרס האמריקאי? כי הם יודעים שהוא צודק: רוב הציבור הישראלי פשוט לא רוצה לשמוע</description>
+<category>Ynet</category>
+<category>ממשלה</category>
+<category>בחירות</category>
+</item>
+<item>
+<title>עשר סליחות שהפוליטיקה הישראלית חייבת לציבור</title>
+<link>https://www.ynet.co.il/news/article/hkvdn00hyfl</link>
+<guid isPermaLink="true">https://www.ynet.co.il/news/article/hkvdn00hyfl</guid>
+<pubDate>Sat, 19 Sep 2026 20:52:23 +0000</pubDate>
+<source url="https://www.ynet.co.il/news/article/hkvdn00hyfl">Ynet</source>
+<description>השנה הגיע הזמן להפנות את המבט גם החוצה, לא רק פנימה, אל המערכת הפוליטית הישראלית - ולבקש סליחה מהציבור</description>
+<category>Ynet</category>
+<category>ממשלה</category>
+<category>בחירות</category>
+</item>
+<item>
+<title>להוציא את הנוער מהגבעות? להפך. המדינה שולחת מורים אל המאחזים הבלתי-חוקיים</title>
+<link>https://www.ynet.co.il/news/article/rkxarg2ogg</link>
+<guid isPermaLink="true">https://www.ynet.co.il/news/article/rkxarg2ogg</guid>
+<pubDate>Sat, 19 Sep 2026 19:12:27 +0000</pubDate>
+<source url="https://www.ynet.co.il/news/article/rkxarg2ogg">Ynet</source>
+<description>חמישה בתי ספר חדשים מוקמים ביו&quot;ש בהשקעה של עשרות מיליונים, אבל יש קאץ&#x27;: לחלקם התלמידים לא יגיעו, והמורים יישלחו אל המאחזים שלהם. האם זה הפתרון שירגיע את נוער הגבעות? ואיך זה קשור למבוגרים שגרים במאחזים? פרק בשני בפרויקט &quot;שומרים&quot; על שטח ההפקר ביהודה ושומרון, גרסת 2026</description>
+<category>Ynet</category>
+<category>ממשלה</category>
+<category>בחירות</category>
+</item>
+<item>
+<title>גויס לצבא, אך לא לצה&quot;ל: ההסתבכות של חסיד ברסלב שניסה לחזור מאומן</title>
+<link>https://www.ynet.co.il/news/article/r1b4yintze</link>
+<guid isPermaLink="true">https://www.ynet.co.il/news/article/r1b4yintze</guid>
+<pubDate>Sat, 19 Sep 2026 18:58:26 +0000</pubDate>
+<source url="https://www.ynet.co.il/news/article/r1b4yintze">Ynet</source>
+<description>גבר בן 49 מביתר עילית שטס להילולה בראש השנה, נעצר בגבול עם רומניה - שם גילו כי הוא יליד אוקראינה וחלה עליו חובת גיוס. הקשר איתו נותק ובמשרד החוץ פועלים לאתר אותו. שלושה חסידים נוספים נעצרו במולדובה וקפריסין: הראשון נחשד בדריסה, השני נתפס עם דרכונים מזויפים - והאחרון הבריח גת</description>
+<category>Ynet</category>
 <category>ממשלה</category>
 <category>בחירות</category>
 </item>
@@ -76,41 +406,8 @@
 <guid isPermaLink="true">https://www.ynet.co.il/news/elections2026/article/hjrcmr3yml</guid>
 <pubDate>Sat, 19 Sep 2026 18:02:58 +0000</pubDate>
 <source url="https://www.ynet.co.il/news/elections2026/article/hjrcmr3yml">Ynet</source>
-<description>על אף שבג&quot;ץ ביטל את חוק הקפאת מעצרי העריקים החרדים, ח&quot;כים מהאופוזיציה טוענים כי הגיע לידיהם מידע שמראה על ירידה בהיקף המעצרים - עד כדי הפסקה מלאה. &quot;אכיפת חובת השירות באופן שוויוני ואפקטיבי אינה סוגיה משפטית בלבד&quot;, כתבו - ודרשו: &quot;להבהיר מה מקור השינוי, אם קיים, ומה היו השיקולים&quot;</description>
+<description>על אף שבג&quot;ץ ביטל את חוק הקפאת מעצרי העריקים החרדים, נציגי מפלגות שונות באופוזיציה טוענים כי הגיע לידיהם מידע שמראה על ירידה בהיקף המעצרים - עד כדי הפסקה מלאה. &quot;אכיפת חובת השירות באופן שוויוני אינה סוגיה משפטית בלבד&quot;, כתבו - ודרשו: &quot;להבהיר מה מקור השינוי, אם קיים, ומה היו השיקולים</description>
 <category>Ynet</category>
-<category>ממשלה</category>
-<category>בחירות</category>
-</item>
-<item>
-<title>ישראל בין מרגלים בשירות האויב ליוצרי סרטים הפוגעים בביטחון המדינה | ד&quot;ר איתן לסרי</title>
-<link>https://www.maariv.co.il/news/opinions/article-1369020</link>
-<guid isPermaLink="true">https://www.maariv.co.il/news/opinions/article-1369020</guid>
-<pubDate>Sat, 19 Sep 2026 17:43:01 +0000</pubDate>
-<source url="https://www.maariv.co.il/news/opinions/article-1369020">מעריב</source>
-<description>ישראל מתמודדת לא רק עם אויבים מעבר לגבול, אלא גם עם ריגול, הדלפות ומלחמת מידע מבית. האתגר: להגן על ביטחון המדינה והלוחמים בלי לפגוע שלא לצורך בחופש הביטוי והיצירה</description>
-<category>מעריב</category>
-<category>ממשלה</category>
-<category>בחירות</category>
-</item>
-<item>
-<title>מתקפה של החות&#x27;ים על סעודיה: שרפת ענק בנמל התעופה הראשי</title>
-<link>https://www.globes.co.il/news/article.aspx?did=1001556937#utm_source=RSS</link>
-<guid isPermaLink="true">https://www.globes.co.il/news/article.aspx?did=1001556937#utm_source=RSS</guid>
-<pubDate>Sat, 19 Sep 2026 17:36:00 +0000</pubDate>
-<source url="https://www.globes.co.il/news/article.aspx?did=1001556937#utm_source=RSS">גלובס</source>
-<description>דיווחים בסעודיה: מתקפה של החות&#x27;ים על נמל התעופה בריאד, שרפת ענק ועצירת טיסות • ראש מערך הביטחון של איראן בריאיון לאל-ג&#x27;זירה: קטאר העבירה לארה&quot;ב את התנאים של איראן לסיום המלחמה, ממתינים לתשובתו של טראמפ • 2 לוחמים נפצעו קל מפיצוץ בדרום לבנון, צה&quot;ל תקף בתגובה • טראמפ הכריז: &quot;ארה&quot;ב </description>
-<category>גלובס</category>
-<category>ממשלה</category>
-<category>בחירות</category>
-</item>
-<item>
-<title>&quot;נגמר הסיפור. זו שליטה מוחלטת&quot;: התוכנית של טיבי ליום שאחרי הבחירות</title>
-<link>https://www.maariv.co.il/news/politics/article-1369015</link>
-<guid isPermaLink="true">https://www.maariv.co.il/news/politics/article-1369015</guid>
-<pubDate>Sat, 19 Sep 2026 17:35:32 +0000</pubDate>
-<source url="https://www.maariv.co.il/news/politics/article-1369015">מעריב</source>
-<description>יו&quot;ר חד&quot;ש-תע&quot;ל הבהיר כי גם ללא כניסה לממשלה, המפלגות הערביות יפעלו מיד לאחר הבחירות להחלפת יו&quot;ר הכנסת. &quot;אתה חושב שנצביע עבור אוחנה? שהפך את הכנסת לשוק כהניסטי?&quot;, אמר ב&quot;פגוש את העיתונות&quot;</description>
-<category>מעריב</category>
 <category>ממשלה</category>
 <category>בחירות</category>
 </item>
@@ -122,336 +419,6 @@
 <source url="https://www.ynet.co.il/news/article/yokra14899654">Ynet</source>
 <description>כבר מ–2019 נמסר לרה&quot;מ מידע מודיעיני שהכספים שהגיעו ביוזמתו ובעידודו מקטאר מופנים גם להתעצמות צבאית של חמאס. אחר כך הגיעו הערכות ש-40%-50% מכל תקציב הזרוע הצבאית מגיעים משם. ואז נודע שיש עוד כספים שזורמים לזרוע הצבאית במסלול חשאי עוקף. גם מצרים הזהירה. מכל אלה נתניהו התעלם, ואז הג</description>
 <category>Ynet</category>
-<category>ממשלה</category>
-<category>בחירות</category>
-</item>
-<item>
-<title>תשעה ישראלים נעצרו בטורקיה בחשד למעורבות ברשת ההונאה שנחשפה במדינה</title>
-<link>https://www.globes.co.il/news/article.aspx?did=1001556946#utm_source=RSS</link>
-<guid isPermaLink="true">https://www.globes.co.il/news/article.aspx?did=1001556946#utm_source=RSS</guid>
-<pubDate>Sat, 19 Sep 2026 17:24:00 +0000</pubDate>
-<source url="https://www.globes.co.il/news/article.aspx?did=1001556946#utm_source=RSS">גלובס</source>
-<description>לפי הרשויות, הרשת פעלה במשך כעשור והונתה קורבנות באמצעות השקעות מזויפות • אחד החשודים המרכזיים: אזרח ישראלי שמחזיק גם בדרכון פורטוגלי • משרד החוץ: מטפלים באירוע ופועלים לוודא שזכויות הישראלים נשמרות</description>
-<category>גלובס</category>
-<category>ממשלה</category>
-<category>בחירות</category>
-</item>
-<item>
-<title>רפאל מאשרת את חשיפת גלובס: בדרך לעסקת ענק בצ׳כיה</title>
-<link>https://www.globes.co.il/news/article.aspx?did=1001556945#utm_source=RSS</link>
-<guid isPermaLink="true">https://www.globes.co.il/news/article.aspx?did=1001556945#utm_source=RSS</guid>
-<pubDate>Sat, 19 Sep 2026 17:02:00 +0000</pubDate>
-<source url="https://www.globes.co.il/news/article.aspx?did=1001556945#utm_source=RSS">גלובס</source>
-<description>רפאל אישרה את חשיפת גלובס על המגעים להרחבת עסקת מערכת ההגנה האווירית ספיידר בצ׳כיה, שנחתמה במקור עבור ארבע סוללות • התוכנית צפויה להתפתח למערך הגנה לאומי משולב, עם יכולות נגד טילים בליסטיים וכטב”מים ומערכות מבוססות לייזר • שתי הסוללות הראשונות מהעסקה המקורית כבר נמצאות בצ׳כיה</description>
-<category>גלובס</category>
-<category>ממשלה</category>
-<category>בחירות</category>
-</item>
-<item>
-<title>בניגוד לעמדת הרמטכ&quot;ל: הנשיא הרצוג מחק את הרישום הפלילי לאלאור אזריה</title>
-<link>https://www.ynet.co.il/news/article/hy3w942yml</link>
-<guid isPermaLink="true">https://www.ynet.co.il/news/article/hy3w942yml</guid>
-<pubDate>Sat, 19 Sep 2026 16:37:16 +0000</pubDate>
-<source url="https://www.ynet.co.il/news/article/hy3w942yml">Ynet</source>
-<description>שר הביטחון תמך, אייל זמיר התנגד - ויצחק הרצוג הכריע: יימחק הרישום הפלילי לחייל שנכלא בגין ירי קטלני במחבל מנוטרל לפני כעשור. &quot;ערב יום כיפור, נעתרתי לבקשתו של אזריה&quot;, נכתב בהודעת הנשיא. אלה הטיעונים שסיפק להחלטה - &quot;ברוח תקופת הסליחות והרחמים&quot;. ישראל כ&quot;ץ בירך: &quot;החלטה אנושית וראויה&quot;</description>
-<category>Ynet</category>
-<category>ממשלה</category>
-<category>בחירות</category>
-</item>
-<item>
-<title>7 מיליון מבקשי מקלט נהרו לאירופה והולידו מפץ פוליטי</title>
-<link>https://www.globes.co.il/news/article.aspx?did=1001556831#utm_source=RSS</link>
-<guid isPermaLink="true">https://www.globes.co.il/news/article.aspx?did=1001556831#utm_source=RSS</guid>
-<pubDate>Sat, 19 Sep 2026 16:00:00 +0000</pubDate>
-<source url="https://www.globes.co.il/news/article.aspx?did=1001556831#utm_source=RSS">גלובס</source>
-<description>בלב הפוליטיקה האירופאית עומדת שורה של נושאים חדשים, הכוללת הגירה, זהות לאומית ואקלים • בזמן שבמפלגות הקיצון הפופוליסטיות מטיבים למנף את הנושאים הבוערים, וכך זכו בבחירות הכלליות בשבדיה השבוע ובבחירות למדינת המחוז בסקסוניה־אנהלט בגרמניה, מפלגות המרכז הותיקות נותרות מאחור • והחשש הג</description>
-<category>גלובס</category>
-<category>ממשלה</category>
-<category>בחירות</category>
-</item>
-<item>
-<title>חבר הקונגרס הפרו-ישראלי מזהיר: &quot;בן גביר בקבינט הוא איום קיומי&quot;</title>
-<link>https://news.walla.co.il/item/3868894</link>
-<guid isPermaLink="true">https://news.walla.co.il/item/3868894</guid>
-<pubDate>Sat, 19 Sep 2026 15:50:00 +0000</pubDate>
-<source url="https://news.walla.co.il/item/3868894">וואלה</source>
-<description>אחד מתומכיה הוותיקים של ישראל בקונגרס מזהיר מפני השינוי החד בדעת הקהל האמריקנית: בראד שרמן הציג נתונים שלפיהם רוב האמריקנים תומכים בצמצום הסיוע הצבאי, והפנה אצבע גם לבן גביר ולאלימות המתנחלים. &quot;ישראל לא יכולה לשרוד בלי חברים בעולם&quot;</description>
-<category>וואלה</category>
-<category>ממשלה</category>
-<category>בחירות</category>
-</item>
-<item>
-<title>פיצוצים בריאד, מתקן דלק עולה באש: לילה מתוח בסעודיה</title>
-<link>https://www.maariv.co.il/news/world/article-1368975</link>
-<guid isPermaLink="true">https://www.maariv.co.il/news/world/article-1368975</guid>
-<pubDate>Sat, 19 Sep 2026 15:46:27 +0000</pubDate>
-<source url="https://www.maariv.co.il/news/world/article-1368975">מעריב</source>
-<description>שעות לאחר שהופעלו בריאד התרעות ונשמעו פיצוצים, תועדה שריפה במתקן דלק סמוך לנמל התעופה המלך ח&#x27;אלד. הרשויות טרם אישרו קשר לתקיפה חות&#x27;ית</description>
-<category>מעריב</category>
-<category>ממשלה</category>
-<category>בחירות</category>
-</item>
-<item>
-<title>&quot;בעיית אנטישמיות&quot; ונגד ישראל: האם השמאל עומד להשתלט מחר על בירת גרמניה?</title>
-<link>https://www.globes.co.il/news/article.aspx?did=1001556944#utm_source=RSS</link>
-<guid isPermaLink="true">https://www.globes.co.il/news/article.aspx?did=1001556944#utm_source=RSS</guid>
-<pubDate>Sat, 19 Sep 2026 15:27:00 +0000</pubDate>
-<source url="https://www.globes.co.il/news/article.aspx?did=1001556944#utm_source=RSS">גלובס</source>
-<description>ברלין תלך מחר לקלפיות, כשמפלגת השמאל די לינקה מנהלת קרב צמוד מול מפלגת המרכז־ימין השמרנית על המקום הראשון • הזינוק בתמיכה בשמאל מגיע על רקע משבר הדיור ויוקר המחיה, אך גם מלווה בביקורת חריפה על התבטאויות אנטישמיות ואנטי־ישראליות בשורות המפלגה • ניצחון של די לינקה עשוי להביא לראשונ</description>
-<category>גלובס</category>
-<category>ממשלה</category>
-<category>בחירות</category>
-</item>
-<item>
-<title>הבחירות ברוסיה, הרחפנים בשמי נאט&quot;ו וערכות החירום: האם אירופה מתכוננת למלחמה?</title>
-<link>https://news.walla.co.il/item/3868902</link>
-<guid isPermaLink="true">https://news.walla.co.il/item/3868902</guid>
-<pubDate>Sat, 19 Sep 2026 15:22:00 +0000</pubDate>
-<source url="https://news.walla.co.il/item/3868902">וואלה</source>
-<description>מטוסי קרב מוזנקים, בתי חולים נערכים לקליטת פצועים ואזרחים מתבקשים להצטייד במים, מזון וציוד חירום. במקביל, אירופה עוקבת בדריכות אחר הבחירות ברוסיה והאפשרות להסלמה ביום שאחריהן. אין התרעה על מלחמה קרובה - אבל ההיערכות לתרחיש כבר מורגשת בשטח</description>
-<category>וואלה</category>
-<category>ממשלה</category>
-<category>בחירות</category>
-</item>
-<item>
-<title>הם נשכבו על הגדר בשביל נתניהו. את הכנסת הבאה יראו מהבית: &quot;קיבלתי שיעור חשוב בחיים&quot;</title>
-<link>https://www.ynet.co.il/news/elections2026/article/yokra14902240</link>
-<guid isPermaLink="true">https://www.ynet.co.il/news/elections2026/article/yokra14902240</guid>
-<pubDate>Sat, 19 Sep 2026 15:21:30 +0000</pubDate>
-<source url="https://www.ynet.co.il/news/elections2026/article/yokra14902240">Ynet</source>
-<description>חברי כנסת מהליכוד שנדחקו לתחתית הרשימה הקפידו להוריד פרופיל מאז האכזבה בפריימריז. עכשיו חמישה מהם מספרים מה השתבש מאחורי הקלעים. הח&quot;כית שחושבת שנדחקה לאחור כי &quot;לא תקפה מספיק את מערכת המשפט&quot;, זה שחשב שיהיה הפתעת הפריימריז וסיים במקום ה-65 - וחבר הכנסת שמאשים: &quot;לשכת נתניהו הלכה לי </description>
-<category>Ynet</category>
-<category>ממשלה</category>
-<category>בחירות</category>
-</item>
-<item>
-<title>שני לוחמים נפצעו קל מפיצוץ מטען בדרום לבנון - צה&quot;ל תוקף בתגובה תשתיות חיזבאללה</title>
-<link>https://news.walla.co.il/item/3868885</link>
-<guid isPermaLink="true">https://news.walla.co.il/item/3868885</guid>
-<pubDate>Sat, 19 Sep 2026 14:47:00 +0000</pubDate>
-<source url="https://news.walla.co.il/item/3868885">וואלה</source>
-<description>בתגובה לפציעתם של שני הלוחמים, צה&quot;ל יצא למתקפה בדרום לבנון כאשר בין התשתיות שהותקפו היו עמדות תצפית ותשתיות טרור של ארגון הטרור חיזבאללה</description>
-<category>וואלה</category>
-<category>ממשלה</category>
-<category>בחירות</category>
-</item>
-<item>
-<title>פתאום פנאטים ומגלגלי עיניים מתהדרים בקוד האתי של צה&quot;ל / הטור של נדב איל</title>
-<link>https://www.ynet.co.il/news/article/yokra14902377</link>
-<guid isPermaLink="true">https://www.ynet.co.il/news/article/yokra14902377</guid>
-<pubDate>Sat, 19 Sep 2026 14:43:49 +0000</pubDate>
-<source url="https://www.ynet.co.il/news/article/yokra14902377">Ynet</source>
-<description>הסרט נז&quot;א לא עומד בסטנדרטים עיתונאיים, וצה&quot;ל אכן מייחס חשיבות רבה להימנעות מפגיעה באזרחים, אבל לסיים בכך יהיה פחדני. השיח אחרי 7/10, חלקו הגיע מהממשלה, היה של חרבו-דרבו. הכל מותר. כל עזה מופללת. משפט בינלאומי? לפח. עכשיו אלה שרצו פשעי מלחמה קופצים לטעון שצה&quot;ל הכי מוסרי</description>
-<category>Ynet</category>
-<category>ממשלה</category>
-<category>בחירות</category>
-</item>
-<item>
-<title>כמה שעות בניו יורק: הביקור שצפוי לנתניהו בארה&quot;ב - והפגישה עם מאסק שבוטלה</title>
-<link>https://www.ynet.co.il/news/article/h1sqefhkfl</link>
-<guid isPermaLink="true">https://www.ynet.co.il/news/article/h1sqefhkfl</guid>
-<pubDate>Sat, 19 Sep 2026 14:08:00 +0000</pubDate>
-<source url="https://www.ynet.co.il/news/article/h1sqefhkfl">Ynet</source>
-<description>למרות שצוות הכנה נשלח לטקסס, רה&quot;מ החליט לבטל פגישה עם איש העסקים המקורב לטראמפ: &quot;זה אירוע מורכב&quot;. למרות הניסיונות של אנשי נתניהו, גם לא תואמה לו פגישה עם הנשיא עצמו בשולי עצרת האו&quot;ם בשל &quot;אילוצי לו&quot;ז&quot;: &quot;עובדים על פגישות אחרות&quot;. מסתמן: יגיע לניו יורק בחמישי, ינאם - ויחזור מיד לישרא</description>
-<category>Ynet</category>
-<category>ממשלה</category>
-<category>בחירות</category>
-</item>
-<item>
-<title>הסקרים הגיעו לשולחן של טראמפ - והפעם הוא כבר לא מתעלם</title>
-<link>https://www.maariv.co.il/news/world/article-1368948</link>
-<guid isPermaLink="true">https://www.maariv.co.il/news/world/article-1368948</guid>
-<pubDate>Sat, 19 Sep 2026 14:03:27 +0000</pubDate>
-<source url="https://www.maariv.co.il/news/world/article-1368948">מעריב</source>
-<description>בפומבי, טראמפ ממשיך לטעון שהמלחמה באיראן הייתה שווה את המחיר, אך לפי דיווחים - הוא מכיר בנזק הפוליטי. כעת הוא פותח את קופת הקמפיין ונערך לעשרות מרוצים צמודים בבחירות האמצע</description>
-<category>מעריב</category>
-<category>ממשלה</category>
-<category>בחירות</category>
-</item>
-<item>
-<title>פעם רקדו ביום כיפור - אז מתי הוא הפך ליום הצום הכי קדוש בשנה?</title>
-<link>https://news.walla.co.il/item/3868243</link>
-<guid isPermaLink="true">https://news.walla.co.il/item/3868243</guid>
-<pubDate>Sat, 19 Sep 2026 14:00:00 +0000</pubDate>
-<source url="https://news.walla.co.il/item/3868243">וואלה</source>
-<description>יום כיפור בלי צום נשמע כמעט כמו סתירה פנימית. במשך יממה מדינה שלמה משנה קצב, הכבישים מתרוקנים ממכוניות, בתי הכנסת מתמלאים ומיליוני יהודים בישראל ובעולם נמנעים מאוכל ומשתייה. גם רבים מאלה שאינם שומרי מצוות מתייחסים ליום הזה אחרת מכל מועד אחר בלוח השנה. אבל יום הכיפורים שאנחנו מכיר</description>
-<category>וואלה</category>
-<category>ממשלה</category>
-<category>בחירות</category>
-</item>
-<item>
-<title>אירופה בכוננות: המסדרון הצר שעלול להפוך לזירת עימות עם רוסיה</title>
-<link>https://www.globes.co.il/news/article.aspx?did=1001556942#utm_source=RSS</link>
-<guid isPermaLink="true">https://www.globes.co.il/news/article.aspx?did=1001556942#utm_source=RSS</guid>
-<pubDate>Sat, 19 Sep 2026 13:20:00 +0000</pubDate>
-<source url="https://www.globes.co.il/news/article.aspx?did=1001556942#utm_source=RSS">גלובס</source>
-<description>אזהרות חריגות מצד מנהיגים באירופה ומידע מודיעיני על צעדים אפשריים מצד מוסקבה מגבירים את הדריכות ביבשת • במוקד החשש נמצא מסדרון סובאלקי, רצועה יבשתית באורך של פחות מ־100 ק&quot;מ בין פולין לליטא, שהשתלטות רוסית עליה עלולה לנתק את המדינות הבלטיות משאר חברות נאט&quot;ו • במקביל, בלארוס פתחה ב</description>
-<category>גלובס</category>
-<category>ממשלה</category>
-<category>בחירות</category>
-</item>
-<item>
-<title>צבא הבוטים החדש: איראן, סין וחברות ישראליות הפעילו קמפיינים אוטונומיים באמצעות AI</title>
-<link>https://news.walla.co.il/item/3868880</link>
-<guid isPermaLink="true">https://news.walla.co.il/item/3868880</guid>
-<pubDate>Sat, 19 Sep 2026 13:08:00 +0000</pubDate>
-<source url="https://news.walla.co.il/item/3868880">וואלה</source>
-<description>תחקיר ה&quot;ניו יורק טיימס&quot; חשף כי סוכני בינה מלאכותית הקימו ותפעלו אלפי חשבונות מזויפים ברשתות החברתיות, כשהרשת האיראנית התחזתה לאזרחים אמריקנים. חברת IntelEye הישראלית אישרה כי השתמשה ב-DeepSeek, אך טענה: &quot;מדובר במחקר הגנתי, איננו מפעילים קמפיינים של השפעה&quot;</description>
-<category>וואלה</category>
-<category>ממשלה</category>
-<category>בחירות</category>
-</item>
-<item>
-<title>השיחה המתוחה לפני הסנקציות: &quot;הבנו שישראל לא תקדם את E1 לפני הבחירות&quot;</title>
-<link>https://www.ynet.co.il/news/article/b191ez2kzx</link>
-<guid isPermaLink="true">https://www.ynet.co.il/news/article/b191ez2kzx</guid>
-<pubDate>Sat, 19 Sep 2026 13:01:02 +0000</pubDate>
-<source url="https://www.ynet.co.il/news/article/b191ez2kzx">Ynet</source>
-<description>חודש לפני המפולת המדינית, סער שוחח עם עמיתיו בלונדון - ואלה &quot;קיבלו את הרושם&quot; שישראל לא תקדם את תוכנית הבנייה ב-E1. אלא שכעבור שבוע, פרסמה הממשלה מכרזים לכ-1,200 יחידות דיור. &quot;זה ההיפך הגמור ממה שהבנו&quot;, זעמו הבריטים. משרד החוץ: &quot;הוא רק עדכן שלא יחול שינוי בשטח עצמו לפני אוקטובר&quot;</description>
-<category>Ynet</category>
-<category>ממשלה</category>
-<category>בחירות</category>
-</item>
-<item>
-<title>&quot;בפעם האחרונה&quot;: התוכנית להשאיר את ארדואן במרוץ גם ב-2028 נחשפת</title>
-<link>https://www.maariv.co.il/news/world/article-1368922</link>
-<guid isPermaLink="true">https://www.maariv.co.il/news/world/article-1368922</guid>
-<pubDate>Sat, 19 Sep 2026 12:41:39 +0000</pubDate>
-<source url="https://www.maariv.co.il/news/world/article-1368922">מעריב</source>
-<description>בכירי שלטונו של ארדואן בטורקיה כבר מסמנים בבירור את הכיוון להתמודדות ב-2028: מגבלת שתי הכהונות עומדת בדרך, והפתרונות נעים מהקדמת הבחירות בכמה שבועות ועד שינוי החוקה ומשאל עם</description>
-<category>מעריב</category>
-<category>ממשלה</category>
-<category>בחירות</category>
-</item>
-<item>
-<title>&quot;ארדואן נכנע לטראמפ&quot;: טורקיה סוגרת את השער בפני הבנק האיראני</title>
-<link>https://news.walla.co.il/item/3868875</link>
-<guid isPermaLink="true">https://news.walla.co.il/item/3868875</guid>
-<pubDate>Sat, 19 Sep 2026 12:28:00 +0000</pubDate>
-<source url="https://news.walla.co.il/item/3868875">וואלה</source>
-<description>בוטל רישיון הפעילות של השלוחה המקומית של בנק מלת שפעל במדינה במשך 44 שנים, ברקע הלחץ שמפעיל הממשל לניתוק ערוציה הפיננסיים של טהרן. מוחמד מרנדי, לשעבר יועץ לצוות המו&quot;מ האיראני בנושא הגרעין, תקף את ההחלטה: &quot;בהוראת נשיא ארה&quot;ב - ארדואן סגר את כל הסניפים&quot;</description>
-<category>וואלה</category>
-<category>ממשלה</category>
-<category>בחירות</category>
-</item>
-<item>
-<title>סעודיה תחת מצור: כך עשויה הנורמליזציה עם ישראל להפוך לאיום הקטן יותר</title>
-<link>https://news.walla.co.il/item/3868864</link>
-<guid isPermaLink="true">https://news.walla.co.il/item/3868864</guid>
-<pubDate>Sat, 19 Sep 2026 12:00:00 +0000</pubDate>
-<source url="https://news.walla.co.il/item/3868864">וואלה</source>
-<description>ריאד מנסה להימנע מבחירה בין וושינגטון, טהראן וירושלים, בעוד האיומים על תשתיות הנפט, השיט והביטחון גוברים. אבל אם המחיר הכלכלי והצבאי ימשיך לטפס, ייתכן שבית סעוד יגלה שהחבירה לישראל ולארה&quot;ב היא דווקא גלגל ההצלה של המשטר</description>
-<category>וואלה</category>
-<category>ממשלה</category>
-<category>בחירות</category>
-</item>
-<item>
-<title>&quot;תרגמו את זה לעברית&quot;: האזהרה החריגה מוותיק תומכי ישראל בקונגרס</title>
-<link>https://www.ynet.co.il/news/article/hy00iajfml</link>
-<guid isPermaLink="true">https://www.ynet.co.il/news/article/hy00iajfml</guid>
-<pubDate>Sat, 19 Sep 2026 11:59:20 +0000</pubDate>
-<source url="https://www.ynet.co.il/news/article/hy00iajfml">Ynet</source>
-<description>חבר הקונגרס הדמוקרטי בראד שרמן קרא לכל הישראלים לצפות בקטע של CNN, שהציג סקרים המצביעים על צניחה חדה באהדה למדינה בארה&quot;ב. &quot;אינני חושב שהם מבינים מה עומד על הפרק, ישראל לא יכולה להתקיים ללא ידידים בעולם&quot;, התריע. הנתונים העגומים, והאזהרה על בן גביר: &quot;נוכחותו בממשלה - סיכון קיומי&quot;</description>
-<category>Ynet</category>
-<category>ממשלה</category>
-<category>בחירות</category>
-</item>
-<item>
-<title>חשד להונאת ענק: יותר מ-200 עצורים בטורקיה, &quot;תשעה מהם ישראלים&quot;</title>
-<link>https://www.ynet.co.il/news/article/hkzyfaoyze</link>
-<guid isPermaLink="true">https://www.ynet.co.il/news/article/hkzyfaoyze</guid>
-<pubDate>Sat, 19 Sep 2026 10:46:29 +0000</pubDate>
-<source url="https://www.ynet.co.il/news/article/hkzyfaoyze">Ynet</source>
-<description>שר המשפטים הטורקי הודיע על חשיפת רשת חובקת עולם שעקצה לפי החשד יותר מ-3 מיליארד דולר. הטורקים טוענים כי &quot;ברוני הונאה מישראל&quot; עמדו בראש התרמית - וממשרד החוץ נמסר: &quot;פועלים לוודא שזכויותיהם נשמרות&quot;. בין העצורים גם פלסטיני ואזרחים ממדינות נוספות. כך פעלה הרשת, לפי החשד</description>
-<category>Ynet</category>
-<category>ממשלה</category>
-<category>בחירות</category>
-</item>
-<item>
-<title>המפלגה החדשה שעשויה להכריע את גורל הבחירות</title>
-<link>https://www.globes.co.il/news/article.aspx?did=1001556941#utm_source=RSS</link>
-<guid isPermaLink="true">https://www.globes.co.il/news/article.aspx?did=1001556941#utm_source=RSS</guid>
-<pubDate>Sat, 19 Sep 2026 10:35:00 +0000</pubDate>
-<source url="https://www.globes.co.il/news/article.aspx?did=1001556941#utm_source=RSS">גלובס</source>
-<description>מדינת ישראל הולכת לבחירות, והמשרוקית של גלובס מביאה את הסקרים העדכניים ביותר מכל כלי התקשורת • מי מתחזק, מי נחלש ואיך זה משפיע על יחסי הכוחות בין המחנות? • והפעם: הנתון שיכריע את ההובלה הגושית, והלקח הכואב שהמפלגות הקטנות צריכות ללמוד</description>
-<category>גלובס</category>
-<category>ממשלה</category>
-<category>בחירות</category>
-</item>
-<item>
-<title>המדינה שאין בה מס רכישה - &quot;גם לא על דירה עשירית&quot;</title>
-<link>https://www.globes.co.il/news/article.aspx?did=1001554910#utm_source=RSS</link>
-<guid isPermaLink="true">https://www.globes.co.il/news/article.aspx?did=1001554910#utm_source=RSS</guid>
-<pubDate>Sat, 19 Sep 2026 10:30:00 +0000</pubDate>
-<source url="https://www.globes.co.il/news/article.aspx?did=1001554910#utm_source=RSS">גלובס</source>
-<description>הקירבה והמחירים האטרקטיביים הפכו את קפריסין ויוון ליעדים מובילים עבור משקיעי הנדל&quot;ן הישראלים, אבל מי שמוכן קצת להרחיק יכול למצוא הזדמנויות נוספות • לא משקיעים עם העדר: חלק ב&#x27;</description>
-<category>גלובס</category>
-<category>ממשלה</category>
-<category>בחירות</category>
-</item>
-<item>
-<title>כוננות בנאט&quot;ו, חשש מגיוס המוני ו&quot;תרחיש סובאלק&quot;: אירופה נערכת להסלמה רוסית אחרי ה&quot;בחירות&quot;</title>
-<link>https://www.ynet.co.il/news/article/hjkem6ofzl</link>
-<guid isPermaLink="true">https://www.ynet.co.il/news/article/hjkem6ofzl</guid>
-<pubDate>Sat, 19 Sep 2026 10:24:06 +0000</pubDate>
-<source url="https://www.ynet.co.il/news/article/hjkem6ofzl">Ynet</source>
-<description>במערב מעריכים כי הקרמלין מכין את הקרקע ל&quot;גיוס שקט&quot; אחרי סגירת הקלפיות מחר, ובקייב כבר הזהירו מאפשרות שמאות אלפים יגויסו לצבא. פולין הזניקה גם היום מטוסים בעקבות התקיפות באוקראינה, מקרון התריע כי האיום ההיברידי הרוסי &quot;התגבר&quot; ובנאט&quot;ו נערכים לתרחישי חבלה ופגיעה בתשתיות: &quot;הידרדרות מת</description>
-<category>Ynet</category>
-<category>ממשלה</category>
-<category>בחירות</category>
-</item>
-<item>
-<title>&quot;טנק &#x27;מרכבה&#x27; ישראלי&quot; מושמד בידי כטב&quot;ם טורקי: סרטון התדמית של חברת הרחפנים</title>
-<link>https://www.ynet.co.il/news/article/hy8hwasymx</link>
-<guid isPermaLink="true">https://www.ynet.co.il/news/article/hy8hwasymx</guid>
-<pubDate>Sat, 19 Sep 2026 10:05:27 +0000</pubDate>
-<source url="https://www.ynet.co.il/news/article/hy8hwasymx">Ynet</source>
-<description>חברת Skydagger הטורקית שעוסקת בפיתוח טכנולוגיית רחפנים פרסמה סרטון קידום ברשתות החברתיות, שבו נראה רחפן שמטיל חימוש על טנק שנראה כ&quot;מרכבה&quot; ישראלית. לפני הפגיעה מוצגת המילה &quot;בעיה&quot;, ואחריה - &quot;פיתרון&quot;. החברה חתמה בקיץ על הסכם שיתוף פעולה עם ענקית ביטחון מארה&quot;ב</description>
-<category>Ynet</category>
-<category>ממשלה</category>
-<category>בחירות</category>
-</item>
-<item>
-<title>ארה&quot;ב חשפה עוד 71 תיקי עב&quot;מים - ולסרטון הזה עדיין אין הסבר כבר 74 שנה</title>
-<link>https://news.walla.co.il/item/3868851</link>
-<guid isPermaLink="true">https://news.walla.co.il/item/3868851</guid>
-<pubDate>Sat, 19 Sep 2026 09:16:00 +0000</pubDate>
-<source url="https://news.walla.co.il/item/3868851">וואלה</source>
-<description>ארצות הברית ממשיכה לטפטף לציבור את ארכיון העב&quot;מים שלה, וביום שישי הגיע הגל השישי: 71 קבצים נוספים, הכוללים מסמכים, סרטונים ועדויות שנאספו במשך יותר משבעה עשורים. אלא שמתוך אלפי העמודים והחומרים החדשים, דווקא אחד הסרטונים העתיקים ביותר הוא זה שמושך עכשיו מחדש את תשומת הלב. הוא צול</description>
-<category>וואלה</category>
-<category>ממשלה</category>
-<category>בחירות</category>
-</item>
-<item>
-<title>עסקת ה-F-35 לסעודיה מתקדמת - והדאגה בישראל: וושינגטון אכן לא חיכתה לנורמליזציה</title>
-<link>https://news.walla.co.il/item/3868685</link>
-<guid isPermaLink="true">https://news.walla.co.il/item/3868685</guid>
-<pubDate>Sat, 19 Sep 2026 09:00:00 +0000</pubDate>
-<source url="https://news.walla.co.il/item/3868685">וואלה</source>
-<description>ארה&quot;ב הודיעה על מכירה אפשרית של 48 מטוסי החמקן לריאד, אף שבישראל ביקשו להתנות זאת בנורמליזציה עם סעודיה. בוושינגטון מזהירים מזליגת טכנולוגיה לסין. חוקר במכון היהודי לביטחון לאומי של אמריקה לוואלה: &quot;העסקה לא צריכה להתקדם לפני ששתי סוגיות מרכזיות ייפתרו&quot;</description>
-<category>וואלה</category>
-<category>ממשלה</category>
-<category>בחירות</category>
-</item>
-<item>
-<title>סערה בטורקיה: נעצרו 9 ישראלים בחשד להונאה במיליארדים</title>
-<link>https://news.walla.co.il/item/3868849</link>
-<guid isPermaLink="true">https://news.walla.co.il/item/3868849</guid>
-<pubDate>Sat, 19 Sep 2026 09:00:00 +0000</pubDate>
-<source url="https://news.walla.co.il/item/3868849">וואלה</source>
-<description>לפי התביעה באיסטנבול, &quot;ברוני ההונאה הישראלים&quot; ניהלו רשת הונאה בינלאומית, שעקצה קורבנות באמצעות השקעות במט&quot;ח ובקריפטו. שר המשפטים הטורקי הודיע כי במסגרת מבצע רחב היקף, בהובלת האינטרפול, נעצרו לפי שעה 201 בני אדם בפרשה</description>
-<category>וואלה</category>
-<category>ממשלה</category>
-<category>בחירות</category>
-</item>
-<item>
-<title>הלו&quot;ז המסתמן של נתניהו בארה&quot;ב - ללא פגישה עם טראמפ</title>
-<link>https://news.walla.co.il/item/3868827</link>
-<guid isPermaLink="true">https://news.walla.co.il/item/3868827</guid>
-<pubDate>Sat, 19 Sep 2026 08:00:00 +0000</pubDate>
-<source url="https://news.walla.co.il/item/3868827">וואלה</source>
-<description>לפי לוח הזמנים שבידי האמריקנים, ראש הממשלה צפוי להגיע לניו יורק רק לאחר שטראמפ כבר יעזוב את העיר. הנשיא יקדיש חלק מרכזי מנאומו באו&quot;ם לאיראן ולעזה וייפגש עם מנהיגי מדינות המפרץ. מיד לאחר מכן יעבור הבית הלבן לאירוע מדיני גדול נוסף: ביקורו של נשיא סין</description>
-<category>וואלה</category>
 <category>ממשלה</category>
 <category>בחירות</category>
 </item>
