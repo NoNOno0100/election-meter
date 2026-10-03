@@ -5,7 +5,7 @@
 <link>https://NoNOno0100.github.io/election-meter/</link>
 <description>אגרגציית RSS חינמית: כתבות על הממשלה, הכנסת והבחירות — מתעדכן יומית</description>
 <language>he</language>
-<lastBuildDate>Fri, 02 Oct 2026 20:35:49 +0000</lastBuildDate>
+<lastBuildDate>Sat, 03 Oct 2026 19:08:55 +0000</lastBuildDate>
 <atom:link href="https://NoNOno0100.github.io/election-meter/gov-news.xml" rel="self" type="application/rss+xml"/>
 <managingEditor>jelyashar@gmail.com (Joseph Elyashar)</managingEditor>
 <webMaster>jelyashar@gmail.com (Joseph Elyashar)</webMaster>
@@ -16,332 +16,398 @@
 <link>https://NoNOno0100.github.io/election-meter/</link>
 </image>
 <item>
-<title>דיווח: עומאן אסרה בעבר על טייס המשנה לטוס בגלל שעבר &quot;רדיקליזציה איסלאמית&quot;</title>
-<link>https://www.ynet.co.il/news/article/hjv2tt6cfe</link>
-<guid isPermaLink="true">https://www.ynet.co.il/news/article/hjv2tt6cfe</guid>
-<pubDate>Fri, 02 Oct 2026 20:07:34 +0000</pubDate>
-<source url="https://www.ynet.co.il/news/article/hjv2tt6cfe">Ynet</source>
-<description>&quot;וול סטריט ג&#x27;ורנל&quot;: עומאן זיהתה בעבר כי טייס המשנה שניסה לרסק את טיסת פליי דובאי עבר תהליכים של הקצנה. למרות זאת, הוא המשיך לטוס בקו הרגיש לישראל. בניגוד לנתניהו שרמז להכוונה או למעורבות של גורמים עוינים, במערכת הביטחון מעריכים: טייס המשנה פעל לבד, על דעת עצמו</description>
-<category>Ynet</category>
-<category>ממשלה</category>
-<category>בחירות</category>
-</item>
-<item>
-<title>לקראת חידוש אפשרי של הלחימה: ארה&quot;ב שלחה סוללות פטריוט נוספות להגן על מתקני האנרגיה בסעודיה וקטאר</title>
-<link>https://www.globes.co.il/news/article.aspx?did=1001558300#utm_source=RSS</link>
-<guid isPermaLink="true">https://www.globes.co.il/news/article.aspx?did=1001558300#utm_source=RSS</guid>
-<pubDate>Fri, 02 Oct 2026 19:46:00 +0000</pubDate>
-<source url="https://www.globes.co.il/news/article.aspx?did=1001558300#utm_source=RSS">גלובס</source>
-<description>אתמול טראמפ אמר כי הוא שוקל לחדש את המערכה כבר בשבועות הקרובים • מנהיגי שתי המדינות שכנעו את הנשיא שלא לתקוף באוגוסט, והעבירו את המשקל ללחץ הכלכלי • צה&quot;ל: מפקד חטיבת צפון הרצועה בחמאס שחוסל השבוע, פיקד במהלך המלחמה על החזקתם של חטופים • אוקראינה תקפה מתקנים תעשייתיים בוולגוגרד שב</description>
+<title>צה&quot;ל ניסה לחסל את מחליפו של סינוואר</title>
+<link>https://www.globes.co.il/news/article.aspx?did=1001558310#utm_source=RSS</link>
+<guid isPermaLink="true">https://www.globes.co.il/news/article.aspx?did=1001558310#utm_source=RSS</guid>
+<pubDate>Sat, 03 Oct 2026 19:03:00 +0000</pubDate>
+<source url="https://www.globes.co.il/news/article.aspx?did=1001558310#utm_source=RSS">גלובס</source>
+<description>צה&quot;ל תקף את המחבל הבכיר שמוגדר &quot;האיש החזק ברצועה&quot; • לפי הוול סטריט ג&#x27;ורנל, על טייס המשנה בפליי דובאי נאסר בעבר לטוס בעומאן בשל חשש מהקצנה אידאולוגית - אך התקבל לעבודה בחברה והטיס את הקו לישראל • רשת ABC: הטייס התכוון לרסק את המטוס בשטח ישראל • סגן הנשיא ואנס ניהל את פגישת הקבינט </description>
 <category>גלובס</category>
 <category>ממשלה</category>
 <category>בחירות</category>
 </item>
 <item>
-<title>נשיאים, שופטים וסרט הוליוודי: הסקנדל שעשוי להכריע את הבחירות במדינת הענק</title>
-<link>https://www.ynet.co.il/news/article/h1nlcdlcmx</link>
-<guid isPermaLink="true">https://www.ynet.co.il/news/article/h1nlcdlcmx</guid>
-<pubDate>Fri, 02 Oct 2026 18:10:06 +0000</pubDate>
-<source url="https://www.ynet.co.il/news/article/h1nlcdlcmx">Ynet</source>
-<description>הוויסקי לנשיא לולה, הסרט על האבא שתכנן הפיכה צבאית, השופט שהסתבך עם טראמפ, ה&quot;סיקאריו&quot; שהתאבד בתא המעצר ומנגנון המרמה שטלטל מדינה שלמה: ברזיל נמצאת בעיצומה של מערכת בחירות סוערת, ומעל הכול מרחפת הונאת ענק בניצוחו של בנקאי צעיר ש&quot;קנה&quot; את מי שהיה יכול - ואיים &quot;לשבור שיניים&quot; למי שהפר</description>
-<category>Ynet</category>
-<category>ממשלה</category>
-<category>בחירות</category>
-</item>
-<item>
-<title>הברית שלא הגנה על סעודיה &quot;תצרף מדינות חדשות&quot;, דיווח: &quot;היערכות למבצע בים האדום&quot;</title>
-<link>https://www.ynet.co.il/news/article/r1kflhaqgg</link>
-<guid isPermaLink="true">https://www.ynet.co.il/news/article/r1kflhaqgg</guid>
-<pubDate>Fri, 02 Oct 2026 17:43:05 +0000</pubDate>
-<source url="https://www.ynet.co.il/news/article/r1kflhaqgg">Ynet</source>
-<description>שר החוץ של פקיסטן טען כי שש מדינות מעוניינות להצטרף ל&quot;ברית מכה&quot;, שבה חברות גם טורקיה וסעודיה. לדבריו, המדינות שהתחייבו כי מתקפה על אחת מהן היא מתקפה על כולן ינקטו &quot;בשיח פוליטי&quot; מול החות&#x27;ים. רויטרס: הסעודים נערכים לבד לפעולה נרחבת נגד המורדים, שבה ישתתפו מעל &quot;100,000 חיילים תימנים</description>
-<category>Ynet</category>
-<category>ממשלה</category>
-<category>בחירות</category>
-</item>
-<item>
-<title>הנערים בצרפת שורפים בתי ספר - והשמאל הקיצוני מלבה את האש</title>
-<link>https://www.maariv.co.il/news/world/article-1372998</link>
-<guid isPermaLink="true">https://www.maariv.co.il/news/world/article-1372998</guid>
-<pubDate>Fri, 02 Oct 2026 16:36:07 +0000</pubDate>
-<source url="https://www.maariv.co.il/news/world/article-1372998">מעריב</source>
-<description>מחאה שהחלה בדרישה לשיפור תנאי הלימוד הפכה לעימות אלים ופוליטי בכל המדינה - ויש חשד שקבוצות המקורבות לשמאל הרדיקלי מנסות ללבות את האש. הממשל הצרפתי מחפש דרכי פתרון</description>
-<category>מעריב</category>
-<category>ממשלה</category>
-<category>בחירות</category>
-</item>
-<item>
-<title>&quot;הדמוקרטיה המתגוננת&quot; הדואלית: 7 באוקטובר שינה את כללי הפסילה לבחירות | משה כהן-אליה</title>
-<link>https://www.maariv.co.il/news/opinions/article-1372997</link>
-<guid isPermaLink="true">https://www.maariv.co.il/news/opinions/article-1372997</guid>
-<pubDate>Fri, 02 Oct 2026 16:29:35 +0000</pubDate>
-<source url="https://www.maariv.co.il/news/opinions/article-1372997">מעריב</source>
-<description>מפסילת כהנא ועד אבו שחאדה, בג&quot;ץ מחזיק במפתחות לקלפי. ההיסטוריה של הדמוקרטיה המתגוננת בישראל חושפת את השינויים בחוק לפסילת מפלגות לאורך השנים, ואת המתח בין הזכות להיבחר לבין הגנה על ערכי המדינה</description>
-<category>מעריב</category>
-<category>ממשלה</category>
-<category>בחירות</category>
-</item>
-<item>
-<title>אחות ראש השב&quot;כ שרצה לכנסת הצטלמה עם מרדכי דוד: &quot;חוסמים את אחמד טיבי&quot;</title>
-<link>https://www.ynet.co.il/news/elections2026/article/bkvo3bp9ze</link>
-<guid isPermaLink="true">https://www.ynet.co.il/news/elections2026/article/bkvo3bp9ze</guid>
-<pubDate>Fri, 02 Oct 2026 16:27:41 +0000</pubDate>
-<source url="https://www.ynet.co.il/news/elections2026/article/bkvo3bp9ze">Ynet</source>
-<description>פעיל הימין הציג את יסכה חיימוב ממפלגת &quot;נעם&quot; כ&quot;אחות הגיבורה של דוד זיני&quot;, ושיתף את עוקביו כי בכוונתם לחסום את חבר הכנסת, &quot;לזכר ערפאת&quot;. &quot;כיף לדעת שבעזרת השם נעבוד יחד עוד הרבה שנים&quot;, היא אמרה לו</description>
-<category>Ynet</category>
-<category>ממשלה</category>
-<category>בחירות</category>
-</item>
-<item>
-<title>הארגון שיחקור את הטייס העומאני, ושאלת המעורבות של ישראל: &quot;תוכל לתשאל אותו&quot;</title>
-<link>https://www.ynet.co.il/news/article/rkppyn69zx</link>
-<guid isPermaLink="true">https://www.ynet.co.il/news/article/rkppyn69zx</guid>
-<pubDate>Fri, 02 Oct 2026 15:56:47 +0000</pubDate>
-<source url="https://www.ynet.co.il/news/article/rkppyn69zx">Ynet</source>
-<description>הגוף הביטחוני האמירתי שמקביל לשב&quot;כ ינהל את חקירת טייס המשנה שניסה לרסק את טיסת פליי דובאי. חרף היחסים הקרובים בין הצדדים, באבו דאבי ינסו להצניע מעורבות של גורמים ישראלים, שלפי רויטרס &quot;צפויים לתשאל את החשוד&quot;. זה העונש שהוא עשוי לקבל אם יורשע - והשיקולים המדיניים שצפויים להשפיע</description>
-<category>Ynet</category>
-<category>ממשלה</category>
-<category>בחירות</category>
-</item>
-<item>
-<title>מטוסי ארקיע וישראייר נחתו בדובאי, גורם אמירתי: &quot;ישראל מנצלת את הפיגוע לצרכים פוליטיים&quot;</title>
-<link>https://www.ynet.co.il/news/article/b1mexep5me</link>
-<guid isPermaLink="true">https://www.ynet.co.il/news/article/b1mexep5me</guid>
-<pubDate>Fri, 02 Oct 2026 14:30:53 +0000</pubDate>
-<source url="https://www.ynet.co.il/news/article/b1mexep5me">Ynet</source>
-<description>בצל המכשולים בהחזרת הישראלים מאיחוד האמירויות והדרישה לצרף מטוס מטען למזוודות, טיסות ישראליות ראשונה כבר הגיעו למקום. גורם שמקורב לממשל באבו דאבי תקף את ישראל בחריפות בשיחה עם ynet: &quot;מדברים על &#x27;טיסות חילוץ&#x27; כאילו יש מלחמה&quot;. פליי דובאי משעה את כל טיסותיה לארץ</description>
-<category>Ynet</category>
-<category>ממשלה</category>
-<category>בחירות</category>
-</item>
-<item>
-<title>נתניהו: אם מישהו שלח את הטייס - הוא ישלם מחיר כבד מאוד</title>
-<link>https://www.ynet.co.il/news/article/hjtl5qa5zg</link>
-<guid isPermaLink="true">https://www.ynet.co.il/news/article/hjtl5qa5zg</guid>
-<pubDate>Fri, 02 Oct 2026 13:00:33 +0000</pubDate>
-<source url="https://www.ynet.co.il/news/article/hjtl5qa5zg">Ynet</source>
-<description>בשעה שהחקירה מתנהלת ועדיין לא ברור אם טייס המשנה העומאני שניסה לרסק את טיסת פליי דובאי פעל על דעת עצמו או בהכוונת גורם מסוים, רה&quot;מ כבר איים: &quot;אם הוא נשלח, מי ששלח אותו ישלם מחיר כבד מאוד&quot;. באמירויות הגדירו את המקרה &quot;פעולת טרור&quot;</description>
-<category>Ynet</category>
-<category>ממשלה</category>
-<category>בחירות</category>
-</item>
-<item>
-<title>הרוח הישראלית</title>
-<link>https://www.ynet.co.il/news/article/yokra14914995</link>
-<guid isPermaLink="true">https://www.ynet.co.il/news/article/yokra14914995</guid>
-<pubDate>Fri, 02 Oct 2026 12:55:02 +0000</pubDate>
-<source url="https://www.ynet.co.il/news/article/yokra14914995">Ynet</source>
-<description>מ–7 באוקטובר ועד פליי–דובאי: בימים שספינים, קמפיינים ומשפיעני רוע מאיימים להטביע אותנו, אפשר לבחור בפריזמה | נכון, יש המון לתקן, אבל יש גם נדיבות, סולדריות ונכונות נדירה להקרבה למען הזולת</description>
-<category>Ynet</category>
-<category>ממשלה</category>
-<category>בחירות</category>
-</item>
-<item>
-<title>ניצחון ברוח ובטכנולוגיה: ישראל הופכת מאומת סטארט־אפ למעצמת R&amp;D מובילה | ד&quot;ר איתן לסרי</title>
-<link>https://www.maariv.co.il/news/opinions/article-1372952</link>
-<guid isPermaLink="true">https://www.maariv.co.il/news/opinions/article-1372952</guid>
-<pubDate>Fri, 02 Oct 2026 12:20:16 +0000</pubDate>
-<source url="https://www.maariv.co.il/news/opinions/article-1372952">מעריב</source>
-<description>הסיפור הישראלי תחת אש אינו רק סיפור על מדינה קטנה שיודעת להקים סטארט־אפים מצליחים. זהו סיפור על מדינה המפתחת יכולות טכנולוגיות, מדעיות וביטחוניות המעצבות את העתיד</description>
-<category>מעריב</category>
-<category>ממשלה</category>
-<category>בחירות</category>
-</item>
-<item>
-<title>&quot;הגענו לתחתית&quot;: גם בארה&quot;ב כבר מדברים על סנקציות - תלוי בבחירות בישראל</title>
-<link>https://www.ynet.co.il/news/article/sjlfzr3qgx</link>
-<guid isPermaLink="true">https://www.ynet.co.il/news/article/sjlfzr3qgx</guid>
-<pubDate>Fri, 02 Oct 2026 11:58:52 +0000</pubDate>
-<source url="https://www.ynet.co.il/news/article/sjlfzr3qgx">Ynet</source>
-<description>&quot;יו&quot;ש היא היום נקודת התורפה של ישראל&quot;, מגדירים גורמים המעורים ביחסים עם וושינגטון את המצב עם ארה&quot;ב. בקונגרס מקודמות יוזמות לסנקציות על ההתנחלויות ועל גורמים ישראלים, גורם דמוקרטי בכיר: &quot;אם אותה קואליציה תחזור, זה יעבור&quot;. ד&quot;ר קובי ברדה: &quot;Blood Bath יחכה לנו אחרי בחירות האמצע&quot;</description>
-<category>Ynet</category>
-<category>ממשלה</category>
-<category>בחירות</category>
-</item>
-<item>
-<title>נתניהו איים, וב&quot;רויטרס&quot; דיווחו: גורמים ישראלים צפויים לתשאל את הטייס העומאני</title>
-<link>https://www.maariv.co.il/news/world/article-1372943</link>
-<guid isPermaLink="true">https://www.maariv.co.il/news/world/article-1372943</guid>
-<pubDate>Fri, 02 Oct 2026 11:51:31 +0000</pubDate>
-<source url="https://www.maariv.co.il/news/world/article-1372943">מעריב</source>
-<description>בכיר באיחוד האמירויות הגדיר את אירוע ניסיון חטיפת הטיסה כ&quot;פעולת טרור מסוכנת&quot;. נתניהו הוציא סרטון בתגובה ואמר כי מבררים בחקירה מה היה. ב&quot;רויטרס&quot; דווח כי גורמים ישראלים יתשאלו את הטייס העומאני</description>
-<category>מעריב</category>
-<category>ממשלה</category>
-<category>בחירות</category>
-</item>
-<item>
-<title>אביר קארה בטור שבועי חדש והפעם: התובע הסדרתי שהלך על הראש של ארגון חסד</title>
-<link>https://www.globes.co.il/news/article.aspx?did=1001558237#utm_source=RSS</link>
-<guid isPermaLink="true">https://www.globes.co.il/news/article.aspx?did=1001558237#utm_source=RSS</guid>
-<pubDate>Fri, 02 Oct 2026 10:28:00 +0000</pubDate>
-<source url="https://www.globes.co.il/news/article.aspx?did=1001558237#utm_source=RSS">גלובס</source>
-<description>תביעת ענק נגד ארגון &quot;ידידים&quot; בגלל הודעת SMS אחת חשפה את העיוות שבו תביעות ייצוגיות מופנות נגד מי שבאמת עוזר לציבור • כך תיקון חדש לחוק עשוי לשים סוף לניצול לרעה של המכשיר המשפטי ולהחזיר את האיזון למערכת • שומר הסף, מדור חדש</description>
+<title>יותר מדי ידיים על ההגה: מי אחראי על ביטחון הטיסות הזרות?</title>
+<link>https://www.globes.co.il/news/article.aspx?did=1001558315#utm_source=RSS</link>
+<guid isPermaLink="true">https://www.globes.co.il/news/article.aspx?did=1001558315#utm_source=RSS</guid>
+<pubDate>Sat, 03 Oct 2026 18:46:00 +0000</pubDate>
+<source url="https://www.globes.co.il/news/article.aspx?did=1001558315#utm_source=RSS">גלובס</source>
+<description>הטייס כבר טס בעבר לישראל, ובעניינו הצטברו לפי הדיווחים סימני אזהרה - אך איש מהגורמים שהיו מעורבים באישור הטיסה לא עצר אותה • המידע על הנוסעים ואנשי הצוות מועבר לרשות המסים, במשרד התחבורה מפנים את האחריות לבדיקה המודיעינית לגורמי הביטחון, והשרה רגב אמרה הערב בכאן 11 כי &quot;המוסד אחרא</description>
 <category>גלובס</category>
 <category>ממשלה</category>
 <category>בחירות</category>
 </item>
 <item>
-<title>מהפך בבג&quot;ץ: רע&quot;ם, המשותפת וכסיף יוכלו לרוץ בבחירות; אבו שחאדה פרש לאחר אולטימטום השופטים</title>
-<link>https://www.globes.co.il/news/article.aspx?did=1001558307#utm_source=RSS</link>
-<guid isPermaLink="true">https://www.globes.co.il/news/article.aspx?did=1001558307#utm_source=RSS</guid>
-<pubDate>Fri, 02 Oct 2026 10:17:00 +0000</pubDate>
-<source url="https://www.globes.co.il/news/article.aspx?did=1001558307#utm_source=RSS">גלובס</source>
-<description>בית המשפט העליון הפך פה אחד את החלטות ועדת הבחירות ואישר את התמודדות שתי הרשימות הערביות לכנסת ה-26 • ברוב של 7 מול 2 אושרה גם התמודדות ח&quot;כ עופר כסיף, חרף &quot;התבטאויות מעוררות שאט נפש&quot; • יו&quot;ר בל&quot;ד סאמי אבו שחאדה משך את מועמדותו ברגע האחרון, לאחר שהשופטים הודיעו כי דבריו &quot;מעוררי קבס</description>
-<category>גלובס</category>
-<category>ממשלה</category>
-<category>בחירות</category>
-</item>
-<item>
-<title>הדרמה בבג&quot;ץ: סאמי אבו שחאדה פרש – אחרי שהשופטים הבהירו מה צפוי לקרות</title>
-<link>https://www.maariv.co.il/news/politics/article-1372917</link>
-<guid isPermaLink="true">https://www.maariv.co.il/news/politics/article-1372917</guid>
-<pubDate>Fri, 02 Oct 2026 10:10:44 +0000</pubDate>
-<source url="https://www.maariv.co.il/news/politics/article-1372917">מעריב</source>
-<description>במהלך הדיון שנערך בבית המשפט העליון בהרכב מורחב, דנו השופטים בהחלטת ועדת הבחירות המרכזית לפסול את אבו שחאדה. במרכז הדיון עמדו התבטאויותיו ומאמר שפרסם ב-8 באוקטובר 2023, מיד לאחר מתקפת השבעה באוקטובר</description>
+<title>אושר לפרסם: יו&quot;ר נתיבי איילון עידן דוד הוא הבכיר שנחקר בלהב 433</title>
+<link>https://www.maariv.co.il/news/law/article-1373207</link>
+<guid isPermaLink="true">https://www.maariv.co.il/news/law/article-1373207</guid>
+<pubDate>Sat, 03 Oct 2026 18:27:12 +0000</pubDate>
+<source url="https://www.maariv.co.il/news/law/article-1373207">מעריב</source>
+<description>לאחר הדיווח על החקירה ביום חמישי, אושר לפרסום כי יו&quot;ר נתיבי איילון עידן דוד הוא הבכיר שעוכב לחקירה בלהב 433 בחשד לעבירות מרמה, הפרת אמונים, זיוף והגשת תצהיר כוזב</description>
 <category>מעריב</category>
 <category>ממשלה</category>
 <category>בחירות</category>
 </item>
 <item>
-<title>העליון הפך את החלטת ועדת הבחירות: רע&quot;מ, הרשימה המשותפת וכסיף יוכלו להתמודד</title>
-<link>https://www.ynet.co.il/news/elections2026/article/hjw00hep9mx</link>
-<guid isPermaLink="true">https://www.ynet.co.il/news/elections2026/article/hjw00hep9mx</guid>
-<pubDate>Fri, 02 Oct 2026 09:50:42 +0000</pubDate>
-<source url="https://www.ynet.co.il/news/elections2026/article/hjw00hep9mx">Ynet</source>
-<description>השופטים קבעו פה אחד כי החלטות ועדת הבחירות המרכזית לפסול את רע&quot;מ והרשימה המשותפת לא עומדות באמות המידה שנקבעו בפסיקה כדי לעשות זאת. מנגד, בפסילת כסיף תמכו השופטים שטיין ומינץ בדעת מיעוט: &quot;תמיכה במאבק מזוין נגד מדינת ישראל&quot;</description>
-<category>Ynet</category>
-<category>ממשלה</category>
-<category>בחירות</category>
-</item>
-<item>
-<title>תסכול רב במערכת הביטחון: מבחינתם המטוס התרסק - זה הגוף שאשם במחדל - &quot;בדק בית מקיף&quot;</title>
-<link>https://www.maariv.co.il/news/military/article-1372909</link>
-<guid isPermaLink="true">https://www.maariv.co.il/news/military/article-1372909</guid>
-<pubDate>Fri, 02 Oct 2026 09:48:41 +0000</pubDate>
-<source url="https://www.maariv.co.il/news/military/article-1372909">מעריב</source>
-<description>לאחר ניסיון חטיפת מטוס פליי דובאי, במערכת הביטחון מותחים ביקורת על אגף האבטחה במשרד התחבורה וטוענים שהתרעות השב&quot;כ לא טופלו. במקביל, מוסד ושב&quot;כ מעמיקים חקירה</description>
+<title>קפטן סמית&#x27; מאצ&#x27;האר לנתניהו: &quot;שמעתי אנשים צורחים והבנתי שהמטוס נשאב למטה&quot;</title>
+<link>https://www.maariv.co.il/news/israel/article-1373199</link>
+<guid isPermaLink="true">https://www.maariv.co.il/news/israel/article-1373199</guid>
+<pubDate>Sat, 03 Oct 2026 18:22:42 +0000</pubDate>
+<source url="https://www.maariv.co.il/news/israel/article-1373199">מעריב</source>
+<description>בשיחה עם ראש הממשלה שחזר קפטן סמית&#x27; מאצ&#x27;האר את התקיפה בתא הטייס: &quot;כמעט איבדתי את הראייה&quot;; לדבריו, שמע נוסעים צורחים והבין שהמטוס נשאב למטה. נתניהו הזמין את הקברניט להדליק משואה</description>
 <category>מעריב</category>
 <category>ממשלה</category>
 <category>בחירות</category>
 </item>
 <item>
-<title>אחרי המאמר מ-8/10, וה&quot;עצה&quot; מנשיא העליון: יו&quot;ר בל&quot;ד פרש מהתמודדות לכנסת</title>
-<link>https://www.ynet.co.il/news/elections2026/article/sj00kfs2cge</link>
-<guid isPermaLink="true">https://www.ynet.co.il/news/elections2026/article/sj00kfs2cge</guid>
-<pubDate>Fri, 02 Oct 2026 09:35:58 +0000</pubDate>
-<source url="https://www.ynet.co.il/news/elections2026/article/sj00kfs2cge">Ynet</source>
-<description>סאמי אבו שחאדה, שהמאמר שלו ביום שלאחר טבח חמאס כונה &quot;תמיכה בטרור&quot; והוביל לפסילתו על ידי ועדת הבחירות, ביקש בפני שופטי העליון להפוך את ההחלטה - אבל לאחר שאלו אמרו לו כי יש רוב לפסילתו, הוא הסיר את מועמדותו. בל&quot;ד: &quot;שאלות חמורות בנוגע לגבולות הלגיטימיות הפוליטית של אזרחים ערבים&quot;</description>
+<title>וינטר בעד התיישבות בעזה, ונגד ועדת חקירה ממלכתית: &quot;נמליץ על נתניהו&quot;</title>
+<link>https://www.ynet.co.il/news/elections2026/article/yokra14914571</link>
+<guid isPermaLink="true">https://www.ynet.co.il/news/elections2026/article/yokra14914571</guid>
+<pubDate>Sat, 03 Oct 2026 18:22:03 +0000</pubDate>
+<source url="https://www.ynet.co.il/news/elections2026/article/yokra14914571">Ynet</source>
+<description>כשהוא תחת ביקורת גם מהקואליציה, עופר וינטר נכנס לישורת האחרונה של קמפיין הבחירות. למרות אכזבתו מתוצאות המלחמה (&quot;אנחנו עדיין בקונספציה&quot;), הוא מבהיר שלמחנה השינוי אין מה לבנות עליו: &quot;לא סומך על איזנקוט כראש ממשלה&quot;. ומה לגבי חבירה לליברמן? &quot;אשמח שיצטרף לממשלת ימין רחבה&quot;</description>
 <category>Ynet</category>
 <category>ממשלה</category>
 <category>בחירות</category>
 </item>
 <item>
-<title>שוטרים שברו אף ויד בעימות עם מתנחלים - ונדהמו: &quot;בן גביר הגיע והתעלם&quot;</title>
-<link>https://www.ynet.co.il/news/elections2026/article/r1wehgtczx</link>
-<guid isPermaLink="true">https://www.ynet.co.il/news/elections2026/article/r1wehgtczx</guid>
-<pubDate>Fri, 02 Oct 2026 09:30:34 +0000</pubDate>
-<source url="https://www.ynet.co.il/news/elections2026/article/r1wehgtczx">Ynet</source>
-<description>כוח של מחוז ש&quot;י הגיע למצפה יריחו כדי לעצור חשוד, ואז החלו העימותים: 3 שוטרים הותקפו וצמיגים של ניידת נחתכו בסכין. לפי עדות קצין משטרה שדיבר עם ynet, בן גביר, שהגיע למקום, התנהל באופן כוחני: &quot;הלך כאילו הוא בעל הבית&quot;. השר לביטחון לאומי טוען שהגיע למקום כדי להשתתף באזכרה, ומכחיש את </description>
+<title>המסר הסמוי של גנץ: אתמודד רק אם אהיה בטוח שאעבור את אחוז החסימה</title>
+<link>https://www.ynet.co.il/news/elections2026/article/b1samtc9mg</link>
+<guid isPermaLink="true">https://www.ynet.co.il/news/elections2026/article/b1samtc9mg</guid>
+<pubDate>Sat, 03 Oct 2026 18:21:50 +0000</pubDate>
+<source url="https://www.ynet.co.il/news/elections2026/article/b1samtc9mg">Ynet</source>
+<description>על רקע הדשדוש בסקרים, שבאף אחד מהם הוא אינו עובר את אחוז החסימה, יו&quot;ר כחול לבן פרסם סרטון בניסיון לשכנע מצביעים. למרות שטען כי הוא &quot;עומד מאחורי ההחלטה להתמודד&quot;, בסביבתו מבהירים שהוא לא יזרוק את קולות המצביעים לפח: &quot;האמון שלכם קודש עבורי&quot;</description>
 <category>Ynet</category>
 <category>ממשלה</category>
 <category>בחירות</category>
 </item>
 <item>
-<title>נתניהו שמע מביידן משפט שלא שומעים בדרך כלל בבית הלבן</title>
-<link>https://www.maariv.co.il/news/world/article-1372890</link>
-<guid isPermaLink="true">https://www.maariv.co.il/news/world/article-1372890</guid>
-<pubDate>Fri, 02 Oct 2026 09:02:21 +0000</pubDate>
-<source url="https://www.maariv.co.il/news/world/article-1372890">מעריב</source>
-<description>ספרו החדש של ברט מקגורק חושף עד כמה התקרבו ביידן ונתניהו לקרע מוחלט סביב המלחמה בעזה. &quot;אתה חושב שאני סנטה קלאוס?&quot;, הטיח הנשיא האמריקאי ברה&quot;מ בשיחת טלפון</description>
+<title>&quot;השמים של ישראל היו פתוחים&quot;: במערכת הביטחון בודקים את התרחיש המדאיג</title>
+<link>https://www.maariv.co.il/news/military/article-1373203</link>
+<guid isPermaLink="true">https://www.maariv.co.il/news/military/article-1373203</guid>
+<pubDate>Sat, 03 Oct 2026 18:11:31 +0000</pubDate>
+<source url="https://www.maariv.co.il/news/military/article-1373203">מעריב</source>
+<description>במערכת הביטחון בודקים אם צוותי אוויר ממדינות אויב טסו בעבר לישראל, ומפנים ביקורת למשרד התחבורה: &quot;השמים של ישראל היו פתוחים&quot;</description>
 <category>מעריב</category>
 <category>ממשלה</category>
 <category>בחירות</category>
 </item>
 <item>
-<title>עבריינים הציתו, ומכון טיהור שפכים קרס: יישובים בסכנת מפגעי ריח - והתיקון עשוי לקחת שבועות</title>
-<link>https://www.ynet.co.il/news/article/r1s3g1p9fl</link>
-<guid isPermaLink="true">https://www.ynet.co.il/news/article/r1s3g1p9fl</guid>
-<pubDate>Fri, 02 Oct 2026 08:05:27 +0000</pubDate>
-<source url="https://www.ynet.co.il/news/article/r1s3g1p9fl">Ynet</source>
-<description>פרסום ראשון: תאגיד המים נווה מדבר בנגב מסרב לשלם לעבריינים - וחווה שוב אירועי פרוטקשן. חדר החשמל במכון הטיהור עלה באש - וההשלכות: כ-30 אלף מ&quot;ק שפכים יזרמו מדי יום לנחל חברון, ומשם גם לב&quot;ש. הנהלת התאגיד: &quot;העבריינים משתחררים ומתנקמים&quot;. דנילוביץ&#x27;: &quot;הפקרות של המדינה&quot;</description>
+<title>הקברניט ההודי חושף: &quot;טייס המשנה התפלל - ואז היכה אותי מאחור שוב ושוב&quot;</title>
+<link>https://www.ynet.co.il/news/article/bk1fwaaqfg</link>
+<guid isPermaLink="true">https://www.ynet.co.il/news/article/bk1fwaaqfg</guid>
+<pubDate>Sat, 03 Oct 2026 18:01:31 +0000</pubDate>
+<source url="https://www.ynet.co.il/news/article/bk1fwaaqfg">Ynet</source>
+<description>סמית מאצ&#x27;צ&#x27;אר סיפר כי המאם אל-המאמי התפלל בקוקפיט: &quot;הסתכלתי קדימה, ואז הרגשתי מכה חזקה לחלק האחורי של הראש שלי&quot;. בשיחה עם נתניהו, אמר לו הגיבור ההודי: &quot;חשבתי שנגרם נזק קטסטרופלי למטוס, ואז הבנתי - זה לא המטוס, זה הבחור שלידי. הרגשתי שנותר לי מאבק אחד אחרון, ואז הסתערתי לעבר הדלת&quot;</description>
 <category>Ynet</category>
 <category>ממשלה</category>
 <category>בחירות</category>
 </item>
 <item>
-<title>&quot;הכרחתי את עצמי לפתוח את הדלת&quot;: הטייס ההודי מדבר לראשונה על רגעי האימה</title>
-<link>https://www.globes.co.il/news/article.aspx?did=1001558305#utm_source=RSS</link>
-<guid isPermaLink="true">https://www.globes.co.il/news/article.aspx?did=1001558305#utm_source=RSS</guid>
-<pubDate>Fri, 02 Oct 2026 07:40:00 +0000</pubDate>
-<source url="https://www.globes.co.il/news/article.aspx?did=1001558305#utm_source=RSS">גלובס</source>
-<description>סמית מאצ&#x27;צ&#x27;אר, קפטן בטיסת פליי דובאי לישראל, נפצע קשה לאחר שהותקף על ידי טייס המשנה, אך הצליח לפתוח את דלת הקוקפיט • &quot;כשהייתי שרוע על הרצפה, הרגשתי שהמטוס צולל מטה במהירות&quot;, סיפר בשיחת וידיאו עם ראש ממשלת הודו</description>
+<title>תחקיר משפחות 7/10: &quot;יש איסוף חריג של פרוטוקולים ע&quot;י סביבת רה&quot;מ&quot;</title>
+<link>https://www.ynet.co.il/news/article/h1hw4i09zg</link>
+<guid isPermaLink="true">https://www.ynet.co.il/news/article/h1hw4i09zg</guid>
+<pubDate>Sat, 03 Oct 2026 17:33:55 +0000</pubDate>
+<source url="https://www.ynet.co.il/news/article/h1hw4i09zg">Ynet</source>
+<description>שבוע ה-3 שנים לטבח 7 באוקטובר נפתח: משפחות &quot;מועצת אוקטובר&quot; חשפו פרטים מהחקירה העצמאית שערכו, מפי &quot;בכירים שהיו בחדרי מקבלי ההחלטות&quot;: &quot;ראש השב&quot;כ אמר לנתניהו שסינוואר מדבר על משהו גדול. רה&quot;מ מפרסם פרוטוקולים חלקיים, המסמכים המלאים מעידים על פיצוץ מתקרב&quot;</description>
+<category>Ynet</category>
+<category>ממשלה</category>
+<category>בחירות</category>
+</item>
+<item>
+<title>&quot;ניסיון נואש להחזיר מצביעים&quot;: הריאיון של יאיר גולן הוציא את אביגדור ליברמן מהכלים | צפו</title>
+<link>https://www.maariv.co.il/news/elections-2026/article-1373187</link>
+<guid isPermaLink="true">https://www.maariv.co.il/news/elections-2026/article-1373187</guid>
+<pubDate>Sat, 03 Oct 2026 17:31:55 +0000</pubDate>
+<source url="https://www.maariv.co.il/news/elections-2026/article-1373187">מעריב</source>
+<description>פחות משבוע אחרי שראשי הגוש התחייבו לא לתקוף זה את זה, יאיר גולן הצהיר: &quot;אפעל אצל שותפיי להקים ממשלה עם רע&quot;מ&quot;; ליברמן השיב במהרה: &quot;יאיר גולן נמצא כנראה בלחץ&quot;</description>
+<category>מעריב</category>
+<category>ממשלה</category>
+<category>בחירות</category>
+</item>
+<item>
+<title>חשד לשבועת שקר וזיוף מסמכים: היו&quot;ר המודח של נתיבי איילון נחקר באזהרה בלהב 433</title>
+<link>https://www.ynet.co.il/news/article/hjqajjhcge</link>
+<guid isPermaLink="true">https://www.ynet.co.il/news/article/hjqajjhcge</guid>
+<pubDate>Sat, 03 Oct 2026 17:08:21 +0000</pubDate>
+<source url="https://www.ynet.co.il/news/article/hjqajjhcge">Ynet</source>
+<description>ביחידה הארצית למאבק בחקירות הונאה בודקים אם עידן דוד ביצע עבירות חמורות כדי להשתלט על החברה ששווה מיליארדים. הפרשה שמביכה את בכירי הליכוד, ובהם מירי רגב ודודי אמסלם, תאלץ את גורמי האכיפה לברר איך ברשות החברות אישרו את המינוי הפוליטי ללא בדיקת עומק של נתוני המועמד לתפקיד</description>
+<category>Ynet</category>
+<category>ממשלה</category>
+<category>בחירות</category>
+</item>
+<item>
+<title>למרות הסקרים בני גנץ מעלה סרטון ומשוכנע: &quot;נעבור ובגדול&quot; | צפו</title>
+<link>https://www.maariv.co.il/news/elections-2026/article-1373177</link>
+<guid isPermaLink="true">https://www.maariv.co.il/news/elections-2026/article-1373177</guid>
+<pubDate>Sat, 03 Oct 2026 17:07:59 +0000</pubDate>
+<source url="https://www.maariv.co.il/news/elections-2026/article-1373177">מעריב</source>
+<description>שלושה שבועות לבחירות, בני גנץ פונה למתלבטים ומנסה להפיג את החשש מאחוז החסימה: &quot;הקולות שלכם בטוחים&quot;; לדבריו, יותר מחמישה מנדטים מעוניינים להצביע לכחול לבן</description>
+<category>מעריב</category>
+<category>ממשלה</category>
+<category>בחירות</category>
+</item>
+<item>
+<title>ישראל לא יכולה להיות דמוקרטיה ליהודים בלבד</title>
+<link>https://www.ynet.co.il/news/article/hkzsehc5gg</link>
+<guid isPermaLink="true">https://www.ynet.co.il/news/article/hkzsehc5gg</guid>
+<pubDate>Sat, 03 Oct 2026 17:04:30 +0000</pubDate>
+<source url="https://www.ynet.co.il/news/article/hkzsehc5gg">Ynet</source>
+<description>עצם הניסיון לפסול את כל המפלגות הערביות, לצד העובדה שגם מנהיגי האופוזיציה שוללים מראש הקמת ממשלה איתן, גורמים לי לשאול: מה הופך ארץ לקדושה אם לא כל מי שחיים בה יכולים להיות שותפים בקביעת העתיד?</description>
+<category>Ynet</category>
+<category>ממשלה</category>
+<category>בחירות</category>
+</item>
+<item>
+<title>הקרב על פסילת אבו שחאדה נמשך גם אחרי הסרת המועמדות - זו דרישת בן גביר</title>
+<link>https://www.maariv.co.il/news/politics/article-1373173</link>
+<guid isPermaLink="true">https://www.maariv.co.il/news/politics/article-1373173</guid>
+<pubDate>Sat, 03 Oct 2026 16:59:22 +0000</pubDate>
+<source url="https://www.maariv.co.il/news/politics/article-1373173">מעריב</source>
+<description>לאחר שאבו שחאדה הסיר את מועמדותו בעקבות הדיון בעליון, עוצמה יהודית דורשת מבית המשפט העליון בכל זאת לפרסם הכרעה מנומקת. בן גביר טוען כי מדובר בסוגיה עקרונית הנוגעת לרף ההוכחה הנדרש לפסילת מועמדים</description>
+<category>מעריב</category>
+<category>ממשלה</category>
+<category>בחירות</category>
+</item>
+<item>
+<title>&quot;3 שנים לא יכבו את הזעקה&quot;: מחאות ברחבי הארץ לציון הטבח</title>
+<link>https://www.ynet.co.il/news/article/rkv0diccfe</link>
+<guid isPermaLink="true">https://www.ynet.co.il/news/article/rkv0diccfe</guid>
+<pubDate>Sat, 03 Oct 2026 16:50:48 +0000</pubDate>
+<source url="https://www.ynet.co.il/news/article/rkv0diccfe">Ynet</source>
+<description>בצומת כברי בגליל מפגינים הניפו שלטים נגד הממשלה והתעמתו עם אדם שלדבריהם חטף דגל ואיים עליהם עם המוט. כ-200 התאספו ברחובות תחת הסיסמה &quot;יזכור העם את בניו ובנותיו&quot;, במטולה ננעל פסטיבל אופנועים על גבול לבנון: &quot;תחושת ניצחון&quot;</description>
+<category>Ynet</category>
+<category>ממשלה</category>
+<category>בחירות</category>
+</item>
+<item>
+<title>הסכסוך על הנחלה בין האב לבנו והטיל האיראני</title>
+<link>https://www.globes.co.il/news/article.aspx?did=1001557836#utm_source=RSS</link>
+<guid isPermaLink="true">https://www.globes.co.il/news/article.aspx?did=1001557836#utm_source=RSS</guid>
+<pubDate>Sat, 03 Oct 2026 16:45:00 +0000</pubDate>
+<source url="https://www.globes.co.il/news/article.aspx?did=1001557836#utm_source=RSS">גלובס</source>
+<description>האב הוציא צו מניעה לבנו שרצה לבנות בית במשק, במקום קרווילה שנפגעה מטיל • ביהמ&quot;ש ביטל את הצו ואיפשר לבן ולאשתו להמשיך בבנייה</description>
 <category>גלובס</category>
 <category>ממשלה</category>
 <category>בחירות</category>
 </item>
 <item>
-<title>הטייס הגיבור הופיע בטלוויזיה מביה&quot;ח: &quot;ידעתי שאלה שניות אחרונות, זחלתי ופתחתי את הדלת&quot;</title>
-<link>https://www.ynet.co.il/news/article/h1zi11r29gx</link>
-<guid isPermaLink="true">https://www.ynet.co.il/news/article/h1zi11r29gx</guid>
-<pubDate>Fri, 02 Oct 2026 06:44:32 +0000</pubDate>
-<source url="https://www.ynet.co.il/news/article/h1zi11r29gx">Ynet</source>
-<description>הקברניט סמית מאצ&#x27;צ&#x27;אר מטיסת פליי דובאי, שעבר ניתוח חירום והועבר לאמירויות, חזר לרגעים הדרמטיים בשיחת וידאו עם ראש ממשלת הודו ששודרה בטלוויזיה. &quot;נלחמתי על חיי, הבנתי שאם לא אראה אומץ - 170 נוסעים ימותו&quot;, הוא תיאר, והתרגש עד דמעות. &quot;אתה האליל שלי&quot;, אמר למודי</description>
-<category>Ynet</category>
-<category>ממשלה</category>
-<category>בחירות</category>
-</item>
-<item>
-<title>הסנאט זוכר ומכבד, נבחרי הכנסת רבים עם משפחות נפגעי 7/10</title>
-<link>https://www.ynet.co.il/news/article/rks9isq9ge</link>
-<guid isPermaLink="true">https://www.ynet.co.il/news/article/rks9isq9ge</guid>
-<pubDate>Fri, 02 Oct 2026 06:27:33 +0000</pubDate>
-<source url="https://www.ynet.co.il/news/article/rks9isq9ge">Ynet</source>
-<description>בזמן שדמוקרטים ורפובליקנים מתאחדים סביב הנרצחים האמריקאים של 7 באוקטובר, בישראל מועמדי מפלגות הקואליציה עסוקים בתקיפת משפחות החטופים לשעבר</description>
-<category>Ynet</category>
-<category>ממשלה</category>
-<category>בחירות</category>
-</item>
-<item>
-<title>מימון מהעירייה, חסות מהממשלה: תגמול המדינה לאמנים ששרו בתהלוכת העריקים</title>
-<link>https://www.ynet.co.il/news/article/rybfgzd9ze</link>
-<guid isPermaLink="true">https://www.ynet.co.il/news/article/rybfgzd9ze</guid>
-<pubDate>Fri, 02 Oct 2026 05:26:37 +0000</pubDate>
-<source url="https://www.ynet.co.il/news/article/rybfgzd9ze">Ynet</source>
-<description>כסף ציבורי עבר למנעימי אירוע המשתמטים: משה דוד וייסמנדל ומקהלת נשמה הופיעו בצעדה בבני ברק לכבוד 160 עריקים מצה&quot;ל. בדיקת ynet העלתה כי לאורך השנים השתתפו הזמרים באירועים וקליפים שזכו למימון מעיריית ירושלים - גם אחרי הוקרה קודמת לעריקים. עמוד היוטיוב המפרגן, הכספים לקליפ בסוכת ראש </description>
-<category>Ynet</category>
-<category>ממשלה</category>
-<category>בחירות</category>
-</item>
-<item>
-<title>ידידה של ישראל בדרך לתקציב ביטחון שלא נראה כמותו</title>
-<link>https://www.globes.co.il/news/article.aspx?did=1001557975#utm_source=RSS</link>
-<guid isPermaLink="true">https://www.globes.co.il/news/article.aspx?did=1001557975#utm_source=RSS</guid>
-<pubDate>Fri, 02 Oct 2026 03:57:00 +0000</pubDate>
-<source url="https://www.globes.co.il/news/article.aspx?did=1001557975#utm_source=RSS">גלובס</source>
-<description>חברות ביטחוניות ישראליות משתתפות בתערוכות באזרבייג&#x27;ן ובמרוקו ומעמיקות שם את הקשרים הביטחוניים • החברה הבת האמריקאית של רפאל קיבלה הסכם להסמכת טיל ספייק SR עבור צבא ארה&quot;ב • וגרמניה מתכננת להגדיל את תקציב הביטחון לכ־140 מיליארד אירו ב־2027, לצד בחינת ייצור מיירטי פטריוט במדינה • הש</description>
+<title>איש הצללים האיראני שמאחורי רשת של מיליארדי דולרים מהברחות נפט</title>
+<link>https://www.globes.co.il/news/article.aspx?did=1001558177#utm_source=RSS</link>
+<guid isPermaLink="true">https://www.globes.co.il/news/article.aspx?did=1001558177#utm_source=RSS</guid>
+<pubDate>Sat, 03 Oct 2026 15:50:00 +0000</pubDate>
+<source url="https://www.globes.co.il/news/article.aspx?did=1001558177#utm_source=RSS">גלובס</source>
+<description>תחקיר גורמי אופוזיציה באיראן חושף את בכיר משמרות המהפכה מוסטפא אחדי כמי שמנהל את מערך הברחות הנפט • כך הוא חומק מהסנקציות של המערב</description>
 <category>גלובס</category>
 <category>ממשלה</category>
 <category>בחירות</category>
 </item>
 <item>
-<title>&quot;הילד החורג&quot; שהפך לחוד החנית של אמ&quot;ן: הסיפור על תחייתו של המודיעין הגלוי</title>
-<link>https://www.globes.co.il/news/article.aspx?did=1001558231#utm_source=RSS</link>
-<guid isPermaLink="true">https://www.globes.co.il/news/article.aspx?did=1001558231#utm_source=RSS</guid>
-<pubDate>Fri, 02 Oct 2026 03:55:00 +0000</pubDate>
-<source url="https://www.globes.co.il/news/article.aspx?did=1001558231#utm_source=RSS">גלובס</source>
-<description>גלובס צולל ליחידת &quot;חצב&quot;, המאתרת מידע מודיעיני ממקורות חשופים, שנסגרה ב–2021 • בעקבות טבח 7 באוקטובר, התגלתה נחיצותה בזיהוי החטופים בעזה ומיקומם, על ידי הצלבת פרסומים של תושבי הרצועה ברשתות • בינואר היא הפכה למבצעית, עם יותר תקציבים ופי 3 כוח אדם - ועכשיו מספקת מטרות לחיסול מחבלים</description>
+<title>&quot;מבקש לדמיין שאני על פתק ההצבעה&quot;: הקמפיין החדש של טראמפ</title>
+<link>https://www.maariv.co.il/news/world/article-1373161</link>
+<guid isPermaLink="true">https://www.maariv.co.il/news/world/article-1373161</guid>
+<pubDate>Sat, 03 Oct 2026 15:37:21 +0000</pubDate>
+<source url="https://www.maariv.co.il/news/world/article-1373161">מעריב</source>
+<description>לקראת בחירות האמצע ב-3 בנובמבר, נשיא ארה&quot;ב קורא לתומכיו להצביע מוקדם, בדואר או ביום הבחירות, ומבקש מהם לצאת ולהצביע כדי להביס את &quot;השמאל הרדיקלי&quot;</description>
+<category>מעריב</category>
+<category>ממשלה</category>
+<category>בחירות</category>
+</item>
+<item>
+<title>בלבולי זיתים: מה באמת היה בכלא קציעות עם מזון האסירים</title>
+<link>https://www.ynet.co.il/news/article/bk3jjcaqgg</link>
+<guid isPermaLink="true">https://www.ynet.co.il/news/article/bk3jjcaqgg</guid>
+<pubDate>Sat, 03 Oct 2026 15:02:13 +0000</pubDate>
+<source url="https://www.ynet.co.il/news/article/bk3jjcaqgg">Ynet</source>
+<description>השר לביטחון לאומי התגאה שהקפיץ את כלא קציעות על שני זיתים עודפים לדבריו. מה שהוא לא סיפר זה שהוא אחראי לתפריט</description>
+<category>Ynet</category>
+<category>ממשלה</category>
+<category>בחירות</category>
+</item>
+<item>
+<title>עומאן זיהתה, מרוקו עצרה ורק בישראל הוא עבר: הקביעה המטרידה במערכת הביטחון | בן כספית</title>
+<link>https://www.maariv.co.il/news/opinions/article-1373153</link>
+<guid isPermaLink="true">https://www.maariv.co.il/news/opinions/article-1373153</guid>
+<pubDate>Sat, 03 Oct 2026 14:49:28 +0000</pubDate>
+<source url="https://www.maariv.co.il/news/opinions/article-1373153">מעריב</source>
+<description>עומאן הורידה אותו מטיסות, מרוקו לא אפשרה לו לטוס, ובישראל הוא הגיע עד לקוקפיט. זה לא אירוע שכמעט הצליח, אלא מחדל שכבר התרחש - ורק חמישה ישראלים מנעו את האסון</description>
+<category>מעריב</category>
+<category>ממשלה</category>
+<category>בחירות</category>
+</item>
+<item>
+<title>בדרך מברמודה לבוסטון: אבד הקשר עם מטוס קל</title>
+<link>https://www.ynet.co.il/news/article/rya1z5r5zl</link>
+<guid isPermaLink="true">https://www.ynet.co.il/news/article/rya1z5r5zl</guid>
+<pubDate>Sat, 03 Oct 2026 14:45:02 +0000</pubDate>
+<source url="https://www.ynet.co.il/news/article/rya1z5r5zl">Ynet</source>
+<description>מטוס שעליו 6 נוסעים ומשמש לפינוי רפואי נעלם מול חופי מסצ&#x27;וסטס במזרח ארה&quot;ב, לפי הנתונים הוא צלל 12,500 רגל ב-3 דקות. משמר החופים החל בסריקות</description>
+<category>Ynet</category>
+<category>ממשלה</category>
+<category>בחירות</category>
+</item>
+<item>
+<title>עבר הקצנה בסוריה, נזרק משתי חברות תעופה - והורשה לטוס לישראל: המחדלים והשאלות הקשות</title>
+<link>https://www.ynet.co.il/news/article/rk2002uaqfe</link>
+<guid isPermaLink="true">https://www.ynet.co.il/news/article/rk2002uaqfe</guid>
+<pubDate>Sat, 03 Oct 2026 14:24:06 +0000</pubDate>
+<source url="https://www.ynet.co.il/news/article/rk2002uaqfe">Ynet</source>
+<description>לעומאן אין יחסים עם ישראל. מחברת התעופה שלה הוא הושעה בעקבות הקצנה ג&#x27;יהאדיסטית. &quot;רויאל אייר מרוקו&quot; לא קיבלה אותו למרות 3 חודשי הכשרה. אבל כל אלו, וגם חוק שמחייב את העברת שמות כל אנשי הצוות לישראל, לא מנעו מהמאם אל-המאמי לטוס לארץ, ולנסות לרסק את המטוס. מי אחראי למחדלים, ומי יחקור</description>
+<category>Ynet</category>
+<category>ממשלה</category>
+<category>בחירות</category>
+</item>
+<item>
+<title>לא רק סוריה, לבנון ולוב: ארדואן רוצה לכבוש עוד מדינה ערבית</title>
+<link>https://www.maariv.co.il/news/world/article-1373146</link>
+<guid isPermaLink="true">https://www.maariv.co.il/news/world/article-1373146</guid>
+<pubDate>Sat, 03 Oct 2026 14:10:03 +0000</pubDate>
+<source url="https://www.maariv.co.il/news/world/article-1373146">מעריב</source>
+<description>הנסיגה האמריקאית מעיראק מותירה את כורדיסטן העיראקית מודאגת ואת איראן בעמדת השפעה, אך ייתכן שהשחקנית שתתפוס מקום מרכזי יותר באזור תהיה דווקא טורקיה, בזכות קשריה הכלכליים והביטחוניים עם הכורדים</description>
+<category>מעריב</category>
+<category>ממשלה</category>
+<category>בחירות</category>
+</item>
+<item>
+<title>אתם בכלל מבינים את האסון שבדרך?</title>
+<link>https://www.ynet.co.il/news/article/hkyetk0qzl</link>
+<guid isPermaLink="true">https://www.ynet.co.il/news/article/hkyetk0qzl</guid>
+<pubDate>Sat, 03 Oct 2026 13:58:03 +0000</pubDate>
+<source url="https://www.ynet.co.il/news/article/hkyetk0qzl">Ynet</source>
+<description>אפילו בארה&quot;ב של טראמפ כבר שוקלים סנקציות על קציני צבא ומשטרה בגלל הטרור היהודי, אבל הפיאסקו המדיני נמצא נמוך בסדר העדיפויות הציבורי, גם של האופוזיציה, עד שבסוף יהיה מאוחר מדי</description>
+<category>Ynet</category>
+<category>ממשלה</category>
+<category>בחירות</category>
+</item>
+<item>
+<title>מבצע בנימין</title>
+<link>https://www.ynet.co.il/news/article/yokra14915590</link>
+<guid isPermaLink="true">https://www.ynet.co.il/news/article/yokra14915590</guid>
+<pubDate>Sat, 03 Oct 2026 13:44:25 +0000</pubDate>
+<source url="https://www.ynet.co.il/news/article/yokra14915590">Ynet</source>
+<description>הנה לכם התמונה המלאה של השבוע: בטיסה אחת קמו נוסעים אלמונים מהכיסא כדי להציל חיים. בטיסה אחרת טס ראש הממשלה במיוחד כדי להציל את הכיסא שלו</description>
+<category>Ynet</category>
+<category>ממשלה</category>
+<category>בחירות</category>
+</item>
+<item>
+<title>5,000 עצורים ב&quot;מרד התלמידים&quot; בצרפת: לינץ&#x27; בשוטרים, להביור על אישה, כבאי עלה באש</title>
+<link>https://www.ynet.co.il/news/article/sj113a00r5gg</link>
+<guid isPermaLink="true">https://www.ynet.co.il/news/article/sj113a00r5gg</guid>
+<pubDate>Sat, 03 Oct 2026 13:40:42 +0000</pubDate>
+<source url="https://www.ynet.co.il/news/article/sj113a00r5gg">Ynet</source>
+<description>אחרי ימים של מהומות אלימות, שהחלו במחאה על מצבה של מערכת החינוך, היום דווח על שקט מתוח בצרפת. אלפים נעצרו מתחילת השבוע, מאות נפצעו, הממשלה מאשימה את השמאל הקיצוני בליבוי אלימות: &quot;ההורים ישלמו&quot;. הפורעים הציתו גם את תיכון &quot;נלסון מנדלה&quot;, בתיעוד שעורר זעם הם נראים רודפים אחרי שוטרת ב</description>
+<category>Ynet</category>
+<category>ממשלה</category>
+<category>בחירות</category>
+</item>
+<item>
+<title>הדרכון שאפשר לטייס להיכנס לישראל - והרגע שבו לפי החשד התקבלה ההחלטה</title>
+<link>https://www.maariv.co.il/news/military/article-1373138</link>
+<guid isPermaLink="true">https://www.maariv.co.il/news/military/article-1373138</guid>
+<pubDate>Sat, 03 Oct 2026 13:22:06 +0000</pubDate>
+<source url="https://www.maariv.co.il/news/military/article-1373138">מעריב</source>
+<description>חקירת טייס המשנה בן ה-29 של &quot;פליי דובאי&quot; נמשכת. החוקרים בודקים כיצד התקבל לחברה ללא המלצות ולאחר פיטוריו מעבודה בעומאן והאם פעל לבדו או קיבל עידוד מגורם אחר</description>
+<category>מעריב</category>
+<category>ממשלה</category>
+<category>בחירות</category>
+</item>
+<item>
+<title>&quot;יכלו לשוב עוד עשרות חטופים חיים&quot; | הוא ליווה את המלחמה מאחורי הקלעים, ולטענתו לא למדנו כלום</title>
+<link>https://www.ynet.co.il/news/article/yokra14914920</link>
+<guid isPermaLink="true">https://www.ynet.co.il/news/article/yokra14914920</guid>
+<pubDate>Sat, 03 Oct 2026 13:07:23 +0000</pubDate>
+<source url="https://www.ynet.co.il/news/article/yokra14914920">Ynet</source>
+<description>זוהי עדות פוקחת עיניים על חרבות ברזל, הצלחותיה ומחדליה. דרור שלום, שהיה ראש האגף המדיני–ביטחוני במשרד הביטחון, חלש על מרכז העצבים שעסק בחימושים, ביחסים עם ארה&quot;ב ובקשרים חשאיים, וזה מה שיש לו להגיד: על ניהול המערכה (&quot;לא היה רצון לסיים, גם מחשש מוועדת חקירה&quot;), על התנהלות הקבינט (&quot;ש</description>
+<category>Ynet</category>
+<category>ממשלה</category>
+<category>בחירות</category>
+</item>
+<item>
+<title>מנהל ההשקעות שמסמן את הלהיט הבא בבורסה - ועוד 4 כתבות על המצב בשווקים</title>
+<link>https://www.globes.co.il/news/article.aspx?did=1001558122#utm_source=RSS</link>
+<guid isPermaLink="true">https://www.globes.co.il/news/article.aspx?did=1001558122#utm_source=RSS</guid>
+<pubDate>Sat, 03 Oct 2026 13:00:00 +0000</pubDate>
+<source url="https://www.globes.co.il/news/article.aspx?did=1001558122#utm_source=RSS">גלובס</source>
+<description>אחרי חודש מעורב בשווקים: מסלול החיסכון שטיפס וזה שאכזב • כשריבית האג&quot;ח מתחילה לכאוב - הראסל 2000 נגרר מאחור • תשואות האג&quot;ח הממשלתיות בארה&quot;ב לא עוצרות • וגם: אחרי שנים של ביצועי חסר, האם נייס מתחילה להתאושש?</description>
 <category>גלובס</category>
 <category>ממשלה</category>
 <category>בחירות</category>
 </item>
 <item>
-<title>שלוש שנים אחרי הטבח: הערכת המצב העדכנית של צה&quot;ל</title>
-<link>https://www.ynet.co.il/news/article/yokra14915604</link>
-<guid isPermaLink="true">https://www.ynet.co.il/news/article/yokra14915604</guid>
-<pubDate>Fri, 02 Oct 2026 03:26:57 +0000</pubDate>
-<source url="https://www.ynet.co.il/news/article/yokra14915604">Ynet</source>
-<description>אחד הלקחים המרכזיים של אירועי השבוע האחרון וגם של 7 באוקטובר הוא שלא תמיד תהיה התרעה קונקרטית ולא את הכול אפשר לחזות מראש. כשהמאבק מול איראן במוקד החששות, וביו&quot;ש מודאגים מהצתת השטח, אי אפשר לחזות את העתיד. במזה&quot;ת שמשתנה כל רגע, תמיד יש להיות מוכנים לכל מה שלא יהיה</description>
+<title>&quot;ההתמקדות בנו מוגזמת&quot;: הסולטנות שממנה הגיע המחבל, השתיקה - והקשר לאיראן</title>
+<link>https://www.ynet.co.il/news/article/sy6p9ea5gg</link>
+<guid isPermaLink="true">https://www.ynet.co.il/news/article/sy6p9ea5gg</guid>
+<pubDate>Sat, 03 Oct 2026 12:42:40 +0000</pubDate>
+<source url="https://www.ynet.co.il/news/article/sy6p9ea5gg">Ynet</source>
+<description>בעומאן לא דיווחו על חשיפת זהות הטייס המחבל מטיסת פליי דובאי ואף לא על האירוע עצמו, וממשיכים לשמור על שתיקה - בניגוד לשכנותיה. גם לא ברור אם דבר פיטוריו של המחבל מ&quot;עומאן אייר&quot; עקב הקצנה נמסר למעסיקיו החדשים. שופט עומאני לשעבר תקף: &quot;קשירת האירוע אלינו לא תמחה את זוועות הציונות&quot;</description>
 <category>Ynet</category>
+<category>ממשלה</category>
+<category>בחירות</category>
+</item>
+<item>
+<title>אפילו הצ&#x27;אט מתחנף אליי בשביל הצבעה</title>
+<link>https://www.ynet.co.il/news/article/rymwznhcmx</link>
+<guid isPermaLink="true">https://www.ynet.co.il/news/article/rymwznhcmx</guid>
+<pubDate>Sat, 03 Oct 2026 12:24:00 +0000</pubDate>
+<source url="https://www.ynet.co.il/news/article/rymwznhcmx">Ynet</source>
+<description>בדיקה שערכתי על ארבעת מודלי הבינה המלאכותית המובילים, לקראת בחירות 2026, מגלה שבחשבון אנונימי הם מנומסים כמו מפלגה חדשה שעוד לא פגשה את אחוז החסימה. כשהם לומדים מי אתם, הם כבר בטוחים שהם יודעים איזה פתק מתאים לכם</description>
+<category>Ynet</category>
+<category>ממשלה</category>
+<category>בחירות</category>
+</item>
+<item>
+<title>המורדים בורחים ממעוזם באתיופיה: &quot;ביזה במתקני הממשלה, נוטשים עמדות&quot;</title>
+<link>https://www.ynet.co.il/news/article/skmm008cqfl</link>
+<guid isPermaLink="true">https://www.ynet.co.il/news/article/skmm008cqfl</guid>
+<pubDate>Sat, 03 Oct 2026 11:37:08 +0000</pubDate>
+<source url="https://www.ynet.co.il/news/article/skmm008cqfl">Ynet</source>
+<description>מלחמת האזרחים ההרסנית באתיופיה התחדשה בשבוע שעבר - וכוחותיו של ראש הממשלה אביי אחמד, חתן נובל לשלום, רושמים הישגים משמעותיים בשטח. לפי הדיווחים המורדים נסוגים כעת ממעוזם בבירת חבל תיגראי: &quot;נמל התעפה נכבש&quot;</description>
+<category>Ynet</category>
+<category>ממשלה</category>
+<category>בחירות</category>
+</item>
+<item>
+<title>&quot;היא אמרה &#x27;אמא, יורים&#x27;, ולא הבנתי. ניסיתי להרגיע אותה בכעס&quot;</title>
+<link>https://www.ynet.co.il/news/article/hyz4e655zl</link>
+<guid isPermaLink="true">https://www.ynet.co.il/news/article/hyz4e655zl</guid>
+<pubDate>Sat, 03 Oct 2026 11:25:24 +0000</pubDate>
+<source url="https://www.ynet.co.il/news/article/hyz4e655zl">Ynet</source>
+<description>הילדים ידעו שזה הסוף, אבל ההורים התקשו להאמין או להכיל את התרחיש הנורא מכל. שלוש שנים אחרי הטבח בשמחת תורה, הם חוזרים להקלטות הכואבות ומתחרטים על הרגע שבו לא הבינו שזו השיחה האחרונה: &quot;עשר דקות אחרי השיחה ראם נהרג. אני הכי מצטערת בעולם שלא פשוט הנעתי את האוטו ונסעתי&quot;</description>
+<category>Ynet</category>
+<category>ממשלה</category>
+<category>בחירות</category>
+</item>
+<item>
+<title>נתניהו טען שישראל הזהירה את בריטניה מפגיעה בבסיס - ותקף: &quot;מדינה סוררת&quot;</title>
+<link>https://www.ynet.co.il/news/article/s17mthccfe</link>
+<guid isPermaLink="true">https://www.ynet.co.il/news/article/s17mthccfe</guid>
+<pubDate>Sat, 03 Oct 2026 09:44:56 +0000</pubDate>
+<source url="https://www.ynet.co.il/news/article/s17mthccfe">Ynet</source>
+<description>בריאיון ל&quot;דיילי מייל&quot; נשאל רה&quot;מ על הסנקציות שהטילה לונדון, ותקף את ממשלת הלייבור: &quot;צביעות בלתי נתפסת&quot;. הוא טען כי התרעה שניתנה על מתקפה בבסיס חיל האוויר פיירפורד השבוע הצילה חיים. לדבריו הביקורת על ישראל נובעת מניסיון לפייס איסלאמיסטים: &quot;צ&#x27;רצ&#x27;יל קרא לזה &#x27;תרדמת הדמוקרטיות&#x27;&quot;</description>
+<category>Ynet</category>
+<category>ממשלה</category>
+<category>בחירות</category>
+</item>
+<item>
+<title>כיתות הרוסות, בריקדות ובתי ספר בלהבות: מחאת תלמידים מטלטלת את צרפת</title>
+<link>https://www.globes.co.il/news/article.aspx?did=1001558312#utm_source=RSS</link>
+<guid isPermaLink="true">https://www.globes.co.il/news/article.aspx?did=1001558312#utm_source=RSS</guid>
+<pubDate>Sat, 03 Oct 2026 08:35:00 +0000</pubDate>
+<source url="https://www.globes.co.il/news/article.aspx?did=1001558312#utm_source=RSS">גלובס</source>
+<description>מחאת צעירים אלימה מתפשטת בצרפת על רקע דרישות לשיפור תנאי החינוך • המהומות כוללות עימותים עם המשטרה, הצתות ופציעות, לצד ביקורת על התנהלות הרשויות ועל עוצמת הדיכוי המשטרתי • המחאה הפכה לסוגייה פוליטית לקראת הבחירות לנשיאות, כשימין ושמאל חלוקים בין סוגיות הגירה וביטחון לבין מצוקת מע</description>
+<category>גלובס</category>
+<category>ממשלה</category>
+<category>בחירות</category>
+</item>
+<item>
+<title>הנתון שחמק מתחת לרדאר, ויכול לשנות את מערכת הבחירות</title>
+<link>https://www.globes.co.il/news/article.aspx?did=1001558308#utm_source=RSS</link>
+<guid isPermaLink="true">https://www.globes.co.il/news/article.aspx?did=1001558308#utm_source=RSS</guid>
+<pubDate>Sat, 03 Oct 2026 07:21:00 +0000</pubDate>
+<source url="https://www.globes.co.il/news/article.aspx?did=1001558308#utm_source=RSS">גלובס</source>
+<description>מדינת ישראל הולכת לבחירות, והמשרוקית של גלובס מביאה את הסקרים העדכניים ביותר מכל כלי התקשורת • מי מתחזק, מי נחלש ואיך זה משפיע על יחסי הכוחות בין המחנות? • והפעם: סקר אחד שבר את הכללים, והבוחרים מפסיקים להתלבט</description>
+<category>גלובס</category>
 <category>ממשלה</category>
 <category>בחירות</category>
 </item>
@@ -385,72 +451,6 @@
 <pubDate>Thu, 01 Oct 2026 10:04:00 +0000</pubDate>
 <source url="https://e.walla.co.il/item/3870431">וואלה</source>
 <description>אחרי הזכייה בוונציה, הסערה בישראל וההפצה הבינלאומית, בצה&quot;ל מפרסמים תגובה מפורטת לסרטם של יובל אברהם ורחל שור. הצבא דוחה שורה ארוכה מהטענות שמוצגות בסרט, בין היתר בנוגע לשימוש בבינה מלאכותית, לפגיעה באזרחים ולתהליך אישור התקיפות בעזה. &quot;הסרט מציג תמונה מעוותת, מטעה ולא מציאותית&quot;. ה</description>
-<category>וואלה</category>
-<category>ממשלה</category>
-<category>בחירות</category>
-</item>
-<item>
-<title>תעמולת הבחירות ניצחה את האחדות: המטוס שנחטף פעמיים</title>
-<link>https://news.walla.co.il/item/3870417</link>
-<guid isPermaLink="true">https://news.walla.co.il/item/3870417</guid>
-<pubDate>Thu, 01 Oct 2026 08:31:00 +0000</pubDate>
-<source url="https://news.walla.co.il/item/3870417">וואלה</source>
-<description>עוד לפני שהתבררו הפרטים הראשונים ובעוד הנוסעים הנסערים ממתינים על אדמת סעודיה, החל הניסיון המכוער לגזול מאיתנו אפילו את האושר הטהור, זה שאין לו מחנה פוליטי</description>
-<category>וואלה</category>
-<category>ממשלה</category>
-<category>בחירות</category>
-</item>
-<item>
-<title>אחרי טיסת האימה מדובאי: חברות התעופה הישראליות נערכות לחלץ את הישראלים מהמזרח</title>
-<link>https://travel.walla.co.il/item/3870419</link>
-<guid isPermaLink="true">https://travel.walla.co.il/item/3870419</guid>
-<pubDate>Thu, 01 Oct 2026 08:25:00 +0000</pubDate>
-<source url="https://travel.walla.co.il/item/3870419">וואלה</source>
-<description>האירוע החריג בטיסת פליי דובאי מדובאי לנתב&quot;ג אתמול (רביעי) ממשיך להשפיע על התעופה הישראלית: חברת פליי דובאי הודיעה כי היא משעה את כל טיסותיה לישראל וממנה בזמן שהחקירה נמשכת. במקביל, חברות התעופה הישראליות נערכות לתת מענה לישראלים שנמצאים בחו&quot;ל ומבקשים לחזור ארצה, ובעיקר לנוסעים הנ</description>
-<category>וואלה</category>
-<category>ממשלה</category>
-<category>בחירות</category>
-</item>
-<item>
-<title>בזמן שמדינה שלמה כוססת ציפורניים: ינון מגל מצא זמן להטריל</title>
-<link>https://e.walla.co.il/item/3870334</link>
-<guid isPermaLink="true">https://e.walla.co.il/item/3870334</guid>
-<pubDate>Wed, 30 Sep 2026 13:10:00 +0000</pubDate>
-<source url="https://e.walla.co.il/item/3870334">וואלה</source>
-<description>הדרמה שהתרחשה היום בשמי המזרח התיכון, במהלכה טיסת פליי דובאי (Flydubai) בדרכה לישראל הוסטה לנחיתת חירום בסעודיה בעקבות עימות פיזי חריג, הציתה גל תגובות מיידי ברשתות החברתיות. בזמן שבמערכת הביטחון עוד בדקו חשד לניסיון פיגוע או חטיפה, הגולשים הישראלים מיהרו לתרגם את רגעי החרדה למפג</description>
-<category>וואלה</category>
-<category>ממשלה</category>
-<category>בחירות</category>
-</item>
-<item>
-<title>טועה מי שחושב שבבוקר ה-28 באוקטובר, נקום למציאות חדשה</title>
-<link>https://news.walla.co.il/item/3870325</link>
-<guid isPermaLink="true">https://news.walla.co.il/item/3870325</guid>
-<pubDate>Wed, 30 Sep 2026 11:42:00 +0000</pubDate>
-<source url="https://news.walla.co.il/item/3870325">וואלה</source>
-<description>ארבעה שבועות לפני הבחירות, דבר אחד בטוח: גם אחריהן יצטרכו אזרחי ישראל להתאזר בסבלנות כדי להבין מי, אם בכלל, יחליף את נתניהו - ולא תאמינו למי יש את הסיכוי הטוב ביותר</description>
-<category>וואלה</category>
-<category>ממשלה</category>
-<category>בחירות</category>
-</item>
-<item>
-<title>אין סיכוי שאתם יודעים לאיזו מדינה שייך הדגל הזה</title>
-<link>https://travel.walla.co.il/item/3870233</link>
-<guid isPermaLink="true">https://travel.walla.co.il/item/3870233</guid>
-<pubDate>Wed, 30 Sep 2026 08:14:00 +0000</pubDate>
-<source url="https://travel.walla.co.il/item/3870233">וואלה</source>
-<description>דגלים לא נולדו כדי לייצג מדינות. בראשית דרכם הם שימשו בעיקר צבאות, בתי מלוכה וספינות. הרומאים וצבאות במונגוליה ובסין השתמשו בדגלים כדי לזהות יחידות בשדה הקרב, ובהמשך, בתקופת התגליות הגיאוגרפיות, הם קיבלו תפקיד מרכזי הרבה יותר: ספינות של ונציה, פורטוגל, הולנד, ספרד, בריטניה וצרפת </description>
-<category>וואלה</category>
-<category>ממשלה</category>
-<category>בחירות</category>
-</item>
-<item>
-<title>&quot;פשפשו במעשיכם, לא במזוודות של יהודים&quot;: פנייה חריפה לראש ממשלת הולנד</title>
-<link>https://travel.walla.co.il/item/3870217</link>
-<guid isPermaLink="true">https://travel.walla.co.il/item/3870217</guid>
-<pubDate>Tue, 29 Sep 2026 12:20:00 +0000</pubDate>
-<source url="https://travel.walla.co.il/item/3870217">וואלה</source>
-<description>חברת הנהלת ההסתדרות הציונית העולמית וראש המחלקה למאבק באנטישמיות, יפעת עובדיה לוסקי, שלחה הבוקר (שלישי) מכתב חריף לראש ממשלת הולנד, רוב יטן, ולשר החוץ ההולנדי, טום ברנדסן, בעקבות עדויות של נוסעים ישראלים ויהודים שנחתו בימים האחרונים בנמל התעופה סכיפהול באמסטרדם וטענו כי עוכבו לבד</description>
 <category>וואלה</category>
 <category>ממשלה</category>
 <category>בחירות</category>
